@@ -1,0 +1,1989 @@
+2018-11-22 08:06:42,392 [main] INFO ebanking - URL is opened
+2018-11-22 08:06:42,718 [main] INFO ebanking - Entered username
+2018-11-22 08:06:42,945 [main] INFO ebanking - Entered password
+2018-11-22 08:06:44,340 [main] INFO ebanking - Login test passed
+2018-11-23 06:59:39,910 [main] INFO ebanking - URL is opened
+2018-11-23 06:59:40,159 [main] INFO ebanking - Entered username
+2018-11-23 06:59:40,342 [main] INFO ebanking - Entered password
+2018-11-23 06:59:42,544 [main] INFO ebanking - Login test passed
+2018-11-23 07:10:35,432 [main] INFO ebanking - URL is opened
+2018-11-23 07:10:35,755 [main] INFO ebanking - Entered username
+2018-11-23 07:10:35,968 [main] INFO ebanking - Entered password
+2018-11-23 07:10:37,326 [main] INFO ebanking - Login test passed
+2018-11-23 07:13:11,746 [main] INFO ebanking - URL is opened
+2018-11-23 07:13:17,047 [main] INFO ebanking - Entered username
+2018-11-23 07:13:18,666 [main] INFO ebanking - Entered password
+2018-11-23 07:13:20,989 [main] INFO ebanking - Login test passed
+2018-11-23 07:14:14,479 [main] INFO ebanking - URL is opened
+2018-11-23 07:14:14,978 [main] INFO ebanking - Entered username
+2018-11-23 07:14:15,207 [main] INFO ebanking - Entered password
+2018-11-23 07:14:18,038 [main] INFO ebanking - Login test passed
+2018-11-23 07:30:16,264 [main] INFO ebanking - URL is opened
+2018-11-23 07:30:16,696 [main] INFO ebanking - Entered username
+2018-11-23 07:30:16,925 [main] INFO ebanking - Entered password
+2018-11-23 07:30:18,507 [main] INFO ebanking - Login test passed
+2018-11-24 06:39:12,523 [main] INFO ebanking - URL is opened
+2018-11-24 06:39:12,827 [main] INFO ebanking - Entered username
+2018-11-24 06:39:12,971 [main] INFO ebanking - Entered password
+2018-11-24 07:23:31,087 [main] INFO ebanking - user name provided
+2018-11-24 07:23:31,338 [main] INFO ebanking - password provided
+2018-11-24 07:23:35,883 [main] INFO ebanking - Login passed
+2018-11-24 07:23:41,171 [main] INFO ebanking - user name provided
+2018-11-24 07:23:41,940 [main] INFO ebanking - password provided
+2018-11-24 07:23:46,801 [main] INFO ebanking - user name provided
+2018-11-24 07:23:47,182 [main] INFO ebanking - password provided
+2018-11-24 07:23:51,933 [main] INFO ebanking - user name provided
+2018-11-24 07:23:52,219 [main] INFO ebanking - password provided
+2018-11-24 07:23:56,749 [main] INFO ebanking - Login passed
+2018-11-24 07:24:02,347 [main] INFO ebanking - user name provided
+2018-11-24 07:24:02,560 [main] INFO ebanking - password provided
+2018-11-24 07:54:34,201 [main] INFO ebanking - User name is provided
+2018-11-24 07:54:34,418 [main] INFO ebanking - Passsword is provided
+2018-11-24 07:54:39,590 [main] INFO ebanking - providing customer details....
+2018-11-24 07:54:48,653 [main] INFO ebanking - validation started....
+2018-11-24 07:54:48,730 [main] INFO ebanking - test case passed....
+2018-11-24 07:56:49,183 [main] INFO ebanking - URL is opened
+2018-11-24 07:56:49,436 [main] INFO ebanking - Entered username
+2018-11-24 07:56:49,618 [main] INFO ebanking - Entered password
+2018-11-24 07:57:00,690 [main] INFO ebanking - user name provided
+2018-11-24 07:57:00,836 [main] INFO ebanking - password provided
+2018-11-24 07:57:05,351 [main] INFO ebanking - Login passed
+2018-11-24 07:57:12,654 [main] INFO ebanking - user name provided
+2018-11-24 07:57:12,863 [main] INFO ebanking - password provided
+2018-11-24 07:57:19,331 [main] INFO ebanking - user name provided
+2018-11-24 07:57:19,521 [main] INFO ebanking - password provided
+2018-11-24 07:57:25,056 [main] INFO ebanking - user name provided
+2018-11-24 07:57:25,176 [main] INFO ebanking - password provided
+2018-11-24 07:57:29,487 [main] INFO ebanking - Login passed
+2018-11-24 07:57:36,479 [main] INFO ebanking - user name provided
+2018-11-24 07:57:36,615 [main] INFO ebanking - password provided
+2018-11-24 07:57:48,990 [main] INFO ebanking - User name is provided
+2018-11-24 07:57:49,140 [main] INFO ebanking - Passsword is provided
+2018-11-24 07:57:54,290 [main] INFO ebanking - providing customer details....
+2018-11-24 07:58:03,372 [main] INFO ebanking - validation started....
+2018-11-24 07:58:03,393 [main] INFO ebanking - test case passed....
+2018-11-24 08:00:42,420 [main] INFO ebanking - user name provided
+2018-11-24 08:00:42,689 [main] INFO ebanking - password provided
+2018-11-24 08:00:48,510 [main] INFO ebanking - user name provided
+2018-11-24 08:00:48,822 [main] INFO ebanking - password provided
+2018-11-24 08:00:54,700 [main] INFO ebanking - user name provided
+2018-11-24 08:00:55,015 [main] INFO ebanking - password provided
+2018-11-24 08:01:06,498 [main] INFO ebanking - URL is opened
+2018-11-24 08:01:06,690 [main] INFO ebanking - Entered username
+2018-11-24 08:01:06,863 [main] INFO ebanking - Entered password
+2018-11-24 08:01:08,353 [main] INFO ebanking - Login test passed
+2018-11-27 06:46:57,598 [main] INFO ebanking - URL is opened
+2018-11-27 06:46:57,912 [main] INFO ebanking - Entered username
+2018-11-27 06:46:58,082 [main] INFO ebanking - Entered password
+2018-11-27 06:46:59,490 [main] INFO ebanking - Login test passed
+2018-11-27 06:47:06,753 [main] INFO ebanking - User name is provided
+2018-11-27 06:47:06,945 [main] INFO ebanking - Passsword is provided
+2018-11-27 06:47:12,518 [main] INFO ebanking - providing customer details....
+2018-11-27 06:47:22,094 [main] INFO ebanking - validation started....
+2018-11-27 06:47:22,128 [main] INFO ebanking - test case passed....
+2018-11-27 07:07:41,422 [main] INFO ebanking - URL is opened
+2018-11-27 07:07:41,799 [main] INFO ebanking - Entered username
+2018-11-27 07:07:42,010 [main] INFO ebanking - Entered password
+2018-11-27 07:07:44,072 [main] INFO ebanking - Login test passed
+2018-11-27 07:07:51,443 [main] INFO ebanking - User name is provided
+2018-11-27 07:07:51,664 [main] INFO ebanking - Passsword is provided
+2018-11-27 07:07:57,563 [main] INFO ebanking - providing customer details....
+2018-11-27 07:08:06,501 [main] INFO ebanking - validation started....
+2018-11-27 07:09:27,107 [main] INFO ebanking - URL is opened
+2018-11-27 07:09:27,361 [main] INFO ebanking - Entered username
+2018-11-27 07:09:27,590 [main] INFO ebanking - Entered password
+2018-11-27 07:09:29,131 [main] INFO ebanking - Login test passed
+2018-11-27 07:09:37,089 [main] INFO ebanking - User name is provided
+2018-11-27 07:09:37,251 [main] INFO ebanking - Passsword is provided
+2018-11-27 07:09:43,571 [main] INFO ebanking - providing customer details....
+2018-11-27 07:09:56,913 [main] INFO ebanking - validation started....
+2018-11-27 07:09:56,947 [main] INFO ebanking - test case passed....
+2018-11-27 07:13:55,575 [main] INFO ebanking - URL is opened
+2018-11-27 07:13:55,850 [main] INFO ebanking - Entered username
+2018-11-27 07:13:56,057 [main] INFO ebanking - Entered password
+2018-11-27 07:13:57,451 [main] INFO ebanking - Login test passed
+2018-11-27 07:14:04,781 [main] INFO ebanking - User name is provided
+2018-11-27 07:14:04,918 [main] INFO ebanking - Passsword is provided
+2018-11-27 07:14:10,040 [main] INFO ebanking - providing customer details....
+2018-11-27 07:14:21,394 [main] INFO ebanking - validation started....
+2018-11-27 07:14:21,430 [main] INFO ebanking - test case passed....
+2018-11-27 07:42:32,801 [main] INFO ebanking - URL is opened
+2018-11-27 07:42:33,008 [main] INFO ebanking - Entered username
+2018-11-27 07:42:33,130 [main] INFO ebanking - Entered password
+2018-11-27 07:42:36,278 [main] INFO ebanking - Login test passed
+2018-11-27 07:42:43,914 [main] INFO ebanking - User name is provided
+2018-11-27 07:42:44,046 [main] INFO ebanking - Passsword is provided
+2018-11-27 07:42:49,371 [main] INFO ebanking - providing customer details....
+2018-11-27 07:43:02,036 [main] INFO ebanking - validation started....
+2018-11-27 07:43:02,081 [main] INFO ebanking - test case passed....
+2018-11-27 07:55:25,354 [main] INFO ebanking - URL is opened
+2018-11-27 07:55:26,413 [main] INFO ebanking - Entered username
+2018-11-27 07:55:26,604 [main] INFO ebanking - Entered password
+2018-11-27 07:55:27,991 [main] INFO ebanking - Login test passed
+2018-11-27 07:55:37,183 [main] INFO ebanking - User name is provided
+2018-11-27 07:55:37,365 [main] INFO ebanking - Passsword is provided
+2018-11-27 07:55:42,851 [main] INFO ebanking - providing customer details....
+2018-11-27 07:55:58,716 [main] INFO ebanking - validation started....
+2018-11-27 07:55:58,749 [main] INFO ebanking - test case passed....
+2022-03-09 12:29:45,968 [main] INFO ebanking - URL is opened
+2022-03-09 12:29:46,347 [main] INFO ebanking - Entered username
+2022-03-09 12:29:46,595 [main] INFO ebanking - Entered password
+2022-03-09 12:32:32,852 [main] INFO ebanking - URL is opened
+2022-03-09 12:32:33,298 [main] INFO ebanking - Entered username
+2022-03-09 12:32:33,487 [main] INFO ebanking - Entered password
+2022-03-09 17:29:52,477 [main] INFO ebanking - URL is opened
+2022-03-09 17:29:52,802 [main] INFO ebanking - Entered username
+2022-03-09 17:29:52,961 [main] INFO ebanking - Entered password
+2022-03-09 17:32:56,707 [main] INFO ebanking - URL is opened
+2022-03-09 17:32:56,941 [main] INFO ebanking - Entered username
+2022-03-09 17:32:57,114 [main] INFO ebanking - Entered password
+2022-03-09 17:35:21,160 [main] INFO ebanking - URL is opened
+2022-03-09 17:35:21,545 [main] INFO ebanking - Entered username
+2022-03-09 17:35:21,705 [main] INFO ebanking - Entered password
+2022-03-10 13:50:15,896 [main] INFO ebanking - URL is opened
+2022-03-10 13:50:16,369 [main] INFO ebanking - Entered username
+2022-03-10 13:50:16,536 [main] INFO ebanking - Entered password
+2022-03-10 13:57:41,481 [main] INFO ebanking - URL is opened
+2022-03-10 13:57:41,776 [main] INFO ebanking - Entered username
+2022-03-10 13:57:41,908 [main] INFO ebanking - Entered password
+2022-03-10 20:23:11,343 [main] INFO ebanking - URL is opened
+2022-03-10 20:23:11,646 [main] INFO ebanking - Entered username
+2022-03-10 20:23:11,855 [main] INFO ebanking - Entered password
+2022-03-10 21:15:39,432 [main] INFO ebanking - URL is opened
+2022-03-10 21:15:39,846 [main] INFO ebanking - Enter domain Name
+2022-03-10 21:15:40,155 [main] INFO ebanking - Entered username
+2022-03-10 21:46:23,111 [main] INFO ebanking - URL is opened
+2022-03-10 21:46:23,817 [main] INFO ebanking - Entered username
+2022-03-10 22:12:47,888 [main] INFO ebanking - URL is opened
+2022-03-10 22:12:48,309 [main] INFO ebanking - Entered username
+2022-03-10 22:12:48,473 [main] INFO ebanking - Enter password
+2022-03-10 22:16:38,839 [main] INFO ebanking - URL is opened
+2022-03-10 22:16:39,209 [main] INFO ebanking - Entered username
+2022-03-10 22:16:39,377 [main] INFO ebanking - Enter password
+2022-03-10 22:16:39,526 [main] INFO ebanking - Entered password
+2022-03-10 22:16:39,668 [main] INFO ebanking - button was clicked
+2022-03-10 22:16:39,868 [main] INFO ebanking - screen was maximized
+2022-03-10 22:21:31,726 [main] INFO ebanking - URL is opened
+2022-03-10 22:21:32,198 [main] INFO ebanking - Entered username
+2022-03-10 22:21:32,396 [main] INFO ebanking - Enter password
+2022-03-10 22:21:32,568 [main] INFO ebanking - Entered password
+2022-03-10 22:21:32,720 [main] INFO ebanking - button was clicked
+2022-03-10 22:21:32,902 [main] INFO ebanking - screen was maximized
+2022-03-10 22:22:34,159 [main] INFO ebanking - URL is opened
+2022-03-10 22:22:34,614 [main] INFO ebanking - Entered username
+2022-03-10 22:22:34,794 [main] INFO ebanking - Enter password
+2022-03-10 22:22:34,961 [main] INFO ebanking - Entered password
+2022-03-10 22:22:35,134 [main] INFO ebanking - button was clicked
+2022-03-10 22:22:35,332 [main] INFO ebanking - screen was maximized
+2022-03-10 22:24:06,109 [main] INFO ebanking - URL is opened
+2022-03-10 22:24:06,515 [main] INFO ebanking - Entered username
+2022-03-10 22:24:06,698 [main] INFO ebanking - Enter password
+2022-03-10 22:24:06,864 [main] INFO ebanking - Entered password
+2022-03-10 22:24:07,030 [main] INFO ebanking - button was clicked
+2022-03-10 22:24:07,239 [main] INFO ebanking - screen was maximized
+2022-03-10 22:27:18,550 [main] INFO ebanking - URL is opened
+2022-03-10 22:27:18,961 [main] INFO ebanking - Entered username
+2022-03-10 22:27:19,141 [main] INFO ebanking - Enter password
+2022-03-10 22:27:19,319 [main] INFO ebanking - Entered password
+2022-03-10 22:27:19,471 [main] INFO ebanking - button was clicked
+2022-03-10 22:27:19,686 [main] INFO ebanking - screen was maximized
+2022-03-10 22:27:51,379 [main] INFO ebanking - Login test passed
+2022-03-10 23:00:44,712 [main] INFO ebanking - URL is opened
+2022-03-10 23:00:45,111 [main] INFO ebanking - Entered username
+2022-03-10 23:00:45,265 [main] INFO ebanking - Enter password
+2022-03-10 23:00:45,411 [main] INFO ebanking - Entered password
+2022-03-10 23:00:45,551 [main] INFO ebanking - button was clicked
+2022-03-10 23:00:45,730 [main] INFO ebanking - screen was maximized
+2022-03-10 23:01:19,436 [main] INFO ebanking - Login test passed
+2022-03-10 23:01:19,460 [main] INFO ebanking - URL is opened
+2022-03-10 23:06:34,228 [main] INFO ebanking - URL is opened
+2022-03-10 23:06:34,634 [main] INFO ebanking - Entered username
+2022-03-10 23:06:34,803 [main] INFO ebanking - Enter password
+2022-03-10 23:06:34,959 [main] INFO ebanking - Entered password
+2022-03-10 23:06:35,135 [main] INFO ebanking - button was clicked
+2022-03-10 23:06:35,351 [main] INFO ebanking - screen was maximized
+2022-03-10 23:06:48,521 [main] INFO ebanking - Login test passed
+2022-03-10 23:06:48,544 [main] INFO ebanking - URL is opened
+2022-03-10 23:14:40,638 [main] INFO ebanking - URL is opened
+2022-03-10 23:14:41,144 [main] INFO ebanking - Entered username
+2022-03-10 23:14:41,324 [main] INFO ebanking - Enter password
+2022-03-10 23:14:41,495 [main] INFO ebanking - Entered password
+2022-03-10 23:14:41,724 [main] INFO ebanking - button was clicked
+2022-03-10 23:14:41,892 [main] INFO ebanking - screen was maximized
+2022-03-10 23:14:51,541 [main] INFO ebanking - Login test passed
+2022-03-10 23:14:51,581 [main] INFO ebanking - URL is opened
+2022-03-11 07:02:42,128 [main] INFO ebanking - URL is opened
+2022-03-11 07:02:42,376 [main] INFO ebanking - Entered username
+2022-03-11 07:02:42,445 [main] INFO ebanking - Enter password
+2022-03-11 07:02:42,503 [main] INFO ebanking - Entered password
+2022-03-11 07:02:42,572 [main] INFO ebanking - button was clicked
+2022-03-11 07:02:42,705 [main] INFO ebanking - screen was maximized
+2022-03-11 07:03:46,860 [main] INFO ebanking - Login test passed
+2022-03-11 07:03:46,913 [main] INFO ebanking - URL is opened
+2022-03-11 07:06:52,001 [main] INFO ebanking - URL is opened
+2022-03-11 07:06:52,236 [main] INFO ebanking - Entered username
+2022-03-11 07:06:52,330 [main] INFO ebanking - Enter password
+2022-03-11 07:06:52,423 [main] INFO ebanking - Entered password
+2022-03-11 07:06:52,521 [main] INFO ebanking - button was clicked
+2022-03-11 07:06:52,694 [main] INFO ebanking - screen was maximized
+2022-03-11 07:07:21,750 [main] INFO ebanking - Login test passed
+2022-03-11 07:07:26,773 [main] INFO ebanking - URL is opened
+2022-03-11 07:15:01,438 [main] INFO ebanking - URL is opened
+2022-03-11 07:15:01,770 [main] INFO ebanking - Entered username
+2022-03-11 07:15:01,867 [main] INFO ebanking - Enter password
+2022-03-11 07:15:01,970 [main] INFO ebanking - Entered password
+2022-03-11 07:15:02,064 [main] INFO ebanking - button was clicked
+2022-03-11 07:15:02,219 [main] INFO ebanking - screen was maximized
+2022-03-11 07:16:23,643 [main] INFO ebanking - URL is opened
+2022-03-11 07:16:23,912 [main] INFO ebanking - Entered username
+2022-03-11 07:16:24,014 [main] INFO ebanking - Enter password
+2022-03-11 07:16:24,103 [main] INFO ebanking - Entered password
+2022-03-11 07:16:24,209 [main] INFO ebanking - button was clicked
+2022-03-11 07:16:24,386 [main] INFO ebanking - screen was maximized
+2022-03-11 07:16:35,610 [main] INFO ebanking - Login test passed
+2022-03-11 07:17:01,149 [main] INFO ebanking - URL is opened
+2022-03-11 07:17:01,369 [main] INFO ebanking - Entered username
+2022-03-11 07:17:01,463 [main] INFO ebanking - Enter password
+2022-03-11 07:17:01,553 [main] INFO ebanking - Entered password
+2022-03-11 07:17:01,637 [main] INFO ebanking - button was clicked
+2022-03-11 07:17:01,785 [main] INFO ebanking - screen was maximized
+2022-03-11 07:19:49,343 [main] INFO ebanking - URL is opened
+2022-03-11 07:19:49,563 [main] INFO ebanking - Entered username
+2022-03-11 07:19:49,670 [main] INFO ebanking - Enter password
+2022-03-11 07:19:49,752 [main] INFO ebanking - Entered password
+2022-03-11 07:19:49,844 [main] INFO ebanking - button was clicked
+2022-03-11 07:19:49,993 [main] INFO ebanking - screen was maximized
+2022-03-11 07:20:18,049 [main] INFO ebanking - Login test passed
+2022-03-11 07:20:31,739 [main] INFO ebanking - URL is opened
+2022-03-11 07:20:31,918 [main] INFO ebanking - Entered username
+2022-03-11 07:20:31,994 [main] INFO ebanking - Enter password
+2022-03-11 07:20:32,057 [main] INFO ebanking - Entered password
+2022-03-11 07:20:32,123 [main] INFO ebanking - button was clicked
+2022-03-11 07:20:32,252 [main] INFO ebanking - screen was maximized
+2022-03-11 07:20:37,686 [main] INFO ebanking - Login test Failed
+2022-03-11 07:25:13,250 [main] INFO ebanking - URL is opened
+2022-03-11 07:25:13,490 [main] INFO ebanking - Entered username
+2022-03-11 07:25:13,579 [main] INFO ebanking - Enter password
+2022-03-11 07:25:13,662 [main] INFO ebanking - Entered password
+2022-03-11 07:25:13,756 [main] INFO ebanking - button was clicked
+2022-03-11 07:25:13,927 [main] INFO ebanking - screen was maximized
+2022-03-11 07:25:25,562 [main] INFO ebanking - Login test passed
+2022-03-11 07:25:38,785 [main] INFO ebanking - URL is opened
+2022-03-11 07:25:38,950 [main] INFO ebanking - Entered username
+2022-03-11 07:25:39,042 [main] INFO ebanking - Enter password
+2022-03-11 07:25:39,124 [main] INFO ebanking - Entered password
+2022-03-11 07:25:39,186 [main] INFO ebanking - button was clicked
+2022-03-11 07:25:39,342 [main] INFO ebanking - screen was maximized
+2022-03-11 07:25:44,779 [main] INFO ebanking - Login test Failed
+2022-03-11 08:01:33,977 [main] INFO ebanking - URL is opened
+2022-03-11 08:01:34,208 [main] INFO ebanking - Entered username
+2022-03-11 08:01:34,277 [main] INFO ebanking - Enter password
+2022-03-11 08:01:34,340 [main] INFO ebanking - Entered password
+2022-03-11 08:01:34,431 [main] INFO ebanking - button was clicked
+2022-03-11 08:01:34,605 [main] INFO ebanking - screen was maximized
+2022-03-11 08:01:48,891 [main] INFO ebanking - Login test passed
+2022-03-11 08:02:03,310 [main] INFO ebanking - URL is opened
+2022-03-11 08:02:03,536 [main] INFO ebanking - Entered username
+2022-03-11 08:02:03,611 [main] INFO ebanking - Enter password
+2022-03-11 08:02:03,686 [main] INFO ebanking - Entered password
+2022-03-11 08:02:03,760 [main] INFO ebanking - button was clicked
+2022-03-11 08:02:03,893 [main] INFO ebanking - screen was maximized
+2022-03-11 08:02:09,328 [main] INFO ebanking - Login test Failed
+2022-03-11 08:02:17,372 [main] INFO ebanking - URL is opened
+2022-03-11 08:02:17,524 [main] INFO ebanking - Entered username
+2022-03-11 08:02:17,592 [main] INFO ebanking - Enter password
+2022-03-11 08:02:17,655 [main] INFO ebanking - Entered password
+2022-03-11 08:02:17,713 [main] INFO ebanking - button was clicked
+2022-03-11 08:02:17,849 [main] INFO ebanking - screen was maximized
+2022-03-11 08:05:27,405 [main] INFO ebanking - URL is opened
+2022-03-11 08:05:27,623 [main] INFO ebanking - Entered username
+2022-03-11 08:05:27,701 [main] INFO ebanking - Enter password
+2022-03-11 08:05:27,795 [main] INFO ebanking - Entered password
+2022-03-11 08:05:27,890 [main] INFO ebanking - button was clicked
+2022-03-11 08:05:28,040 [main] INFO ebanking - screen was maximized
+2022-03-11 08:05:40,963 [main] INFO ebanking - Login test passed
+2022-03-11 08:05:53,803 [main] INFO ebanking - URL is opened
+2022-03-11 08:05:54,050 [main] INFO ebanking - Entered username
+2022-03-11 08:05:54,149 [main] INFO ebanking - Enter password
+2022-03-11 08:05:54,244 [main] INFO ebanking - Entered password
+2022-03-11 08:05:54,318 [main] INFO ebanking - button was clicked
+2022-03-11 08:05:54,476 [main] INFO ebanking - screen was maximized
+2022-03-11 08:05:59,926 [main] INFO ebanking - Login test Failed
+2022-03-11 08:06:10,371 [main] INFO ebanking - URL is opened
+2022-03-11 08:06:10,586 [main] INFO ebanking - Entered username
+2022-03-11 08:06:10,691 [main] INFO ebanking - Enter password
+2022-03-11 08:06:10,789 [main] INFO ebanking - Entered password
+2022-03-11 08:06:10,872 [main] INFO ebanking - button was clicked
+2022-03-11 08:06:11,019 [main] INFO ebanking - screen was maximized
+2022-03-11 11:51:47,448 [main] INFO ebanking - URL is opened
+2022-03-11 11:51:47,702 [main] INFO ebanking - Entered username
+2022-03-11 11:51:47,781 [main] INFO ebanking - Enter password
+2022-03-11 11:51:47,851 [main] INFO ebanking - Entered password
+2022-03-11 11:51:47,919 [main] INFO ebanking - button was clicked
+2022-03-11 11:51:48,059 [main] INFO ebanking - screen was maximized
+2022-03-11 11:51:55,013 [main] INFO ebanking - Login test passed
+2022-03-11 11:52:08,281 [main] INFO ebanking - URL is opened
+2022-03-11 11:52:08,473 [main] INFO ebanking - Entered username
+2022-03-11 11:52:08,569 [main] INFO ebanking - Enter password
+2022-03-11 11:52:08,664 [main] INFO ebanking - Entered password
+2022-03-11 11:52:08,739 [main] INFO ebanking - button was clicked
+2022-03-11 11:52:08,870 [main] INFO ebanking - screen was maximized
+2022-03-11 11:52:14,304 [main] INFO ebanking - Login test Failed
+2022-03-11 11:52:22,137 [main] INFO ebanking - URL is opened
+2022-03-11 11:52:22,741 [main] INFO ebanking - Entered username
+2022-03-11 11:52:23,341 [main] INFO ebanking - Enter password
+2022-03-11 11:52:23,693 [main] INFO ebanking - Entered password
+2022-03-11 11:52:23,868 [main] INFO ebanking - button was clicked
+2022-03-11 11:52:24,071 [main] INFO ebanking - screen was maximized
+2022-03-11 11:52:41,524 [main] INFO ebanking - Application page Failed to display
+2022-03-11 11:54:37,164 [main] INFO ebanking - URL is opened
+2022-03-11 11:54:37,849 [main] INFO ebanking - Entered username
+2022-03-11 11:54:38,047 [main] INFO ebanking - Enter password
+2022-03-11 11:54:38,181 [main] INFO ebanking - Entered password
+2022-03-11 11:54:38,308 [main] INFO ebanking - button was clicked
+2022-03-11 11:54:38,463 [main] INFO ebanking - screen was maximized
+2022-03-11 12:13:26,526 [main] INFO ebanking - URL is opened
+2022-03-11 12:13:26,755 [main] INFO ebanking - Entered username
+2022-03-11 12:13:26,823 [main] INFO ebanking - Enter password
+2022-03-11 12:13:26,889 [main] INFO ebanking - Entered password
+2022-03-11 12:13:26,950 [main] INFO ebanking - button was clicked
+2022-03-11 12:13:27,102 [main] INFO ebanking - screen was maximized
+2022-03-11 12:13:48,286 [main] INFO ebanking - Login test failed
+2022-03-11 12:21:21,023 [main] INFO ebanking - URL is opened
+2022-03-11 12:21:21,316 [main] INFO ebanking - Entered username
+2022-03-11 12:21:21,402 [main] INFO ebanking - Enter password
+2022-03-11 12:21:21,496 [main] INFO ebanking - Entered password
+2022-03-11 12:21:21,563 [main] INFO ebanking - button was clicked
+2022-03-11 12:21:21,697 [main] INFO ebanking - screen was maximized
+2022-03-11 12:28:13,406 [main] INFO ebanking - URL is opened
+2022-03-11 12:28:13,671 [main] INFO ebanking - Entered username
+2022-03-11 12:28:13,765 [main] INFO ebanking - Enter password
+2022-03-11 12:28:13,868 [main] INFO ebanking - Entered password
+2022-03-11 12:28:13,969 [main] INFO ebanking - button was clicked
+2022-03-11 12:28:14,141 [main] INFO ebanking - screen was maximized
+2022-03-11 12:33:45,873 [main] INFO ebanking - URL is opened
+2022-03-11 12:33:46,422 [main] INFO ebanking - Entered username
+2022-03-11 12:33:46,697 [main] INFO ebanking - Enter password
+2022-03-11 12:33:48,519 [main] INFO ebanking - Entered password
+2022-03-11 12:33:48,680 [main] INFO ebanking - button was clicked
+2022-03-11 12:33:48,843 [main] INFO ebanking - screen was maximized
+2022-03-11 12:34:11,768 [main] INFO ebanking - Login test failed
+2022-03-11 12:37:13,877 [main] INFO ebanking - URL is opened
+2022-03-11 12:37:14,352 [main] INFO ebanking - Entered username
+2022-03-11 12:37:14,564 [main] INFO ebanking - Enter password
+2022-03-11 12:37:14,710 [main] INFO ebanking - Entered password
+2022-03-11 12:37:14,837 [main] INFO ebanking - button was clicked
+2022-03-11 12:37:15,016 [main] INFO ebanking - screen was maximized
+2022-03-11 15:22:55,915 [main] INFO ebanking - URL is opened
+2022-03-11 15:22:56,653 [main] INFO ebanking - Entered username
+2022-03-11 15:22:56,838 [main] INFO ebanking - Enter password
+2022-03-11 15:22:57,026 [main] INFO ebanking - Entered password
+2022-03-11 15:22:57,189 [main] INFO ebanking - button was clicked
+2022-03-11 15:22:57,412 [main] INFO ebanking - screen was maximized
+2022-03-11 16:52:10,476 [main] INFO ebanking - URL is opened
+2022-03-11 16:52:11,006 [main] INFO ebanking - Entered username
+2022-03-11 16:52:11,199 [main] INFO ebanking - Enter password
+2022-03-11 16:52:11,364 [main] INFO ebanking - Entered password
+2022-03-11 16:52:11,517 [main] INFO ebanking - button was clicked
+2022-03-11 16:52:11,725 [main] INFO ebanking - screen was maximized
+2022-03-11 16:57:48,340 [main] INFO ebanking - URL is opened
+2022-03-11 16:57:48,817 [main] INFO ebanking - Entered username
+2022-03-11 16:57:49,146 [main] INFO ebanking - Enter password
+2022-03-11 16:57:49,323 [main] INFO ebanking - Entered password
+2022-03-11 16:57:49,459 [main] INFO ebanking - button was clicked
+2022-03-11 16:57:49,624 [main] INFO ebanking - screen was maximized
+2022-03-11 16:58:42,524 [main] INFO ebanking - URL is opened
+2022-03-11 16:58:44,176 [main] INFO ebanking - screen was maximized
+2022-03-11 17:03:40,547 [main] INFO ebanking - URL is opened
+2022-03-11 17:03:41,037 [main] INFO ebanking - Entered username
+2022-03-11 17:03:41,248 [main] INFO ebanking - Enter password
+2022-03-11 17:03:41,429 [main] INFO ebanking - Entered password
+2022-03-11 17:03:41,585 [main] INFO ebanking - button was clicked
+2022-03-11 17:03:41,782 [main] INFO ebanking - screen was maximized
+2022-03-11 17:04:27,610 [main] INFO ebanking - URL is opened
+2022-03-11 17:04:29,137 [main] INFO ebanking - screen was maximized
+2022-03-11 17:08:05,898 [main] INFO ebanking - URL is opened
+2022-03-11 17:08:07,322 [main] INFO ebanking - screen was maximized
+2022-03-11 17:13:12,049 [main] INFO ebanking - URL is opened
+2022-03-11 17:13:13,832 [main] INFO ebanking - screen was maximized
+2022-03-11 17:17:17,521 [main] INFO ebanking - URL is opened
+2022-03-11 17:17:18,624 [main] INFO ebanking - screen was maximized
+2022-03-11 17:20:26,016 [main] INFO ebanking - URL is opened
+2022-03-11 17:20:27,191 [main] INFO ebanking - screen was maximized
+2022-03-11 17:24:53,443 [main] INFO ebanking - URL is opened
+2022-03-11 17:24:54,513 [main] INFO ebanking - screen was maximized
+2022-03-11 17:55:25,144 [main] INFO ebanking - URL is opened
+2022-03-11 17:55:27,520 [main] INFO ebanking - screen was maximized
+2022-03-11 18:02:53,954 [main] INFO ebanking - URL is opened
+2022-03-11 18:02:55,705 [main] INFO ebanking - screen was maximized
+2022-03-11 18:06:54,999 [main] INFO ebanking - URL is opened
+2022-03-11 18:06:55,649 [main] INFO ebanking - screen was maximized
+2022-03-11 18:11:39,407 [main] INFO ebanking - URL is opened
+2022-03-11 18:11:40,055 [main] INFO ebanking - screen was maximized
+2022-03-11 18:25:42,164 [main] INFO ebanking - URL is opened
+2022-03-11 18:25:42,778 [main] INFO ebanking - screen was maximized
+2022-03-11 18:31:35,260 [main] INFO ebanking - URL is opened
+2022-03-11 18:31:35,941 [main] INFO ebanking - screen was maximized
+2022-03-11 18:34:37,109 [main] INFO ebanking - URL is opened
+2022-03-11 18:34:37,884 [main] INFO ebanking - screen was maximized
+2022-03-11 18:37:32,192 [main] INFO ebanking - URL is opened
+2022-03-11 18:37:32,966 [main] INFO ebanking - screen was maximized
+2022-03-11 18:40:20,459 [main] INFO ebanking - URL is opened
+2022-03-11 18:40:21,212 [main] INFO ebanking - screen was maximized
+2022-03-11 18:42:07,752 [main] INFO ebanking - URL is opened
+2022-03-11 18:42:08,430 [main] INFO ebanking - screen was maximized
+2022-03-11 18:55:35,976 [main] INFO ebanking - URL is opened
+2022-03-11 18:55:36,705 [main] INFO ebanking - screen was maximized
+2022-03-11 18:59:15,827 [main] INFO ebanking - URL is opened
+2022-03-11 18:59:16,464 [main] INFO ebanking - screen was maximized
+2022-03-11 19:01:22,128 [main] INFO ebanking - URL is opened
+2022-03-11 19:01:22,855 [main] INFO ebanking - screen was maximized
+2022-03-11 19:05:34,672 [main] INFO ebanking - URL is opened
+2022-03-11 19:05:35,482 [main] INFO ebanking - screen was maximized
+2022-03-11 19:08:05,332 [main] INFO ebanking - URL is opened
+2022-03-11 19:08:06,453 [main] INFO ebanking - screen was maximized
+2022-03-11 19:12:33,473 [main] INFO ebanking - URL is opened
+2022-03-11 19:12:34,149 [main] INFO ebanking - screen was maximized
+2022-03-11 19:13:23,957 [main] INFO ebanking - URL is opened
+2022-03-11 19:13:25,162 [main] INFO ebanking - screen was maximized
+2022-03-11 19:16:11,782 [main] INFO ebanking - URL is opened
+2022-03-11 19:16:12,900 [main] INFO ebanking - screen was maximized
+2022-03-12 09:18:02,056 [main] INFO ebanking - URL is opened
+2022-03-12 09:18:03,753 [main] INFO ebanking - screen was maximized
+2022-03-12 09:57:03,658 [main] INFO ebanking - URL is opened
+2022-03-12 09:57:05,020 [main] INFO ebanking - screen was maximized
+2022-03-12 10:02:44,159 [main] INFO ebanking - URL is opened
+2022-03-12 10:02:45,444 [main] INFO ebanking - screen was maximized
+2022-03-12 10:08:36,000 [main] INFO ebanking - URL is opened
+2022-03-12 10:08:37,602 [main] INFO ebanking - screen was maximized
+2022-03-12 10:12:56,251 [main] INFO ebanking - URL is opened
+2022-03-12 10:12:57,680 [main] INFO ebanking - screen was maximized
+2022-03-12 10:15:42,391 [main] INFO ebanking - URL is opened
+2022-03-12 10:18:01,167 [main] INFO ebanking - URL is opened
+2022-03-12 10:21:37,011 [main] INFO ebanking - URL is opened
+2022-03-12 10:26:33,468 [main] INFO ebanking - URL is opened
+2022-03-12 10:36:54,328 [main] INFO ebanking - URL is opened
+2022-03-12 10:39:16,017 [main] INFO ebanking - URL is opened
+2022-03-12 10:46:09,832 [main] INFO ebanking - URL is opened
+2022-03-12 10:46:54,441 [main] INFO ebanking - create ticket button is pressed
+2022-03-12 12:59:26,970 [main] INFO ebanking - URL is opened
+2022-03-12 13:00:04,664 [main] INFO ebanking - create ticket button is pressed
+2022-03-12 13:00:06,217 [main] INFO ebanking - QueueType is selected
+2022-03-12 13:00:39,479 [main] INFO ebanking - Title is entered
+2022-03-12 13:04:51,600 [main] INFO ebanking - URL is opened
+2022-03-12 13:05:24,771 [main] INFO ebanking - create ticket button is pressed
+2022-03-12 13:05:26,095 [main] INFO ebanking - QueueType is selected
+2022-03-12 13:05:36,819 [main] INFO ebanking - Title is entered
+2022-03-12 13:14:51,332 [main] INFO ebanking - URL is opened
+2022-03-12 13:15:25,736 [main] INFO ebanking - create ticket button is pressed
+2022-03-12 13:15:26,952 [main] INFO ebanking - QueueType is clicked
+2022-03-12 13:15:27,095 [main] INFO ebanking - QueueType2 is selected
+2022-03-12 13:15:35,652 [main] INFO ebanking - Title is entered
+2022-03-12 13:21:54,805 [main] INFO ebanking - URL is opened
+2022-03-12 13:22:28,390 [main] INFO ebanking - create ticket button is pressed
+2022-03-12 13:22:29,573 [main] INFO ebanking - QueueType is clicked
+2022-03-12 13:22:29,769 [main] INFO ebanking - QueueType2 is selected
+2022-03-12 13:22:34,916 [main] INFO ebanking - Title is entered
+2022-03-12 13:22:35,175 [main] INFO ebanking - Description is entered
+2022-03-12 13:22:35,522 [main] INFO ebanking - firstname is entered
+2022-03-12 13:22:35,719 [main] INFO ebanking - Last name is entered
+2022-03-12 13:25:33,913 [main] INFO ebanking - URL is opened
+2022-03-12 13:26:11,967 [main] INFO ebanking - create ticket button is pressed
+2022-03-12 13:26:13,445 [main] INFO ebanking - QueueType is clicked
+2022-03-12 13:26:13,570 [main] INFO ebanking - QueueType2 is selected
+2022-03-12 13:26:13,608 [main] INFO ebanking - Scrolled the page
+2022-03-12 13:26:19,791 [main] INFO ebanking - Title is entered
+2022-03-12 13:26:20,023 [main] INFO ebanking - Description is entered
+2022-03-12 13:26:20,368 [main] INFO ebanking - firstname is entered
+2022-03-12 13:26:20,537 [main] INFO ebanking - Last name is entered
+2022-03-12 13:27:43,711 [main] INFO ebanking - URL is opened
+2022-03-12 13:28:19,946 [main] INFO ebanking - create ticket button is pressed
+2022-03-12 13:28:21,172 [main] INFO ebanking - QueueType is clicked
+2022-03-12 13:28:21,316 [main] INFO ebanking - QueueType2 is selected
+2022-03-12 13:28:21,333 [main] INFO ebanking - Scrolled the page
+2022-03-12 13:28:29,057 [main] INFO ebanking - Title is entered
+2022-03-12 13:28:29,419 [main] INFO ebanking - Description is entered
+2022-03-12 13:28:29,756 [main] INFO ebanking - firstname is entered
+2022-03-12 13:28:29,914 [main] INFO ebanking - Last name is entered
+2022-03-12 13:29:46,637 [main] INFO ebanking - URL is opened
+2022-03-12 13:30:21,882 [main] INFO ebanking - create ticket button is pressed
+2022-03-12 13:30:23,485 [main] INFO ebanking - QueueType is clicked
+2022-03-12 13:30:23,650 [main] INFO ebanking - QueueType2 is selected
+2022-03-12 13:30:26,676 [main] INFO ebanking - Scrolled the page
+2022-03-12 13:30:46,436 [main] INFO ebanking - Title is entered
+2022-03-12 13:30:46,689 [main] INFO ebanking - Description is entered
+2022-03-12 13:30:47,062 [main] INFO ebanking - firstname is entered
+2022-03-12 13:30:47,237 [main] INFO ebanking - Last name is entered
+2022-03-12 13:49:50,952 [main] INFO ebanking - URL is opened
+2022-03-12 13:50:25,992 [main] INFO ebanking - create ticket button is pressed
+2022-03-12 13:50:27,656 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:06:56,813 [main] INFO ebanking - URL is opened
+2022-03-13 06:07:29,178 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:09:22,805 [main] INFO ebanking - URL is opened
+2022-03-13 06:09:56,507 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:09:57,823 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:13:03,206 [main] INFO ebanking - URL is opened
+2022-03-13 06:13:32,049 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:13:32,796 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:15:22,955 [main] INFO ebanking - URL is opened
+2022-03-13 06:15:53,246 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:15:54,344 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:23:25,201 [main] INFO ebanking - URL is opened
+2022-03-13 06:23:57,939 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:23:59,379 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:24:02,523 [main] INFO ebanking - Scrolled the page
+2022-03-13 06:24:17,073 [main] INFO ebanking - Title is entered
+2022-03-13 06:24:17,444 [main] INFO ebanking - Description is entered
+2022-03-13 06:24:17,776 [main] INFO ebanking - firstname is entered
+2022-03-13 06:24:17,915 [main] INFO ebanking - Last name is entered
+2022-03-13 06:25:25,098 [main] INFO ebanking - URL is opened
+2022-03-13 06:25:55,199 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:25:56,506 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:25:59,534 [main] INFO ebanking - Scrolled the page
+2022-03-13 06:26:53,921 [main] INFO ebanking - Title is entered
+2022-03-13 06:26:54,132 [main] INFO ebanking - Description is entered
+2022-03-13 06:26:54,504 [main] INFO ebanking - firstname is entered
+2022-03-13 06:26:54,673 [main] INFO ebanking - Last name is entered
+2022-03-13 06:35:24,664 [main] INFO ebanking - URL is opened
+2022-03-13 06:35:57,870 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:35:59,897 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:38:13,833 [main] INFO ebanking - URL is opened
+2022-03-13 06:38:43,938 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:38:45,181 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:39:27,737 [main] INFO ebanking - Title is entered
+2022-03-13 06:39:27,929 [main] INFO ebanking - Description is entered
+2022-03-13 06:39:28,217 [main] INFO ebanking - firstname is entered
+2022-03-13 06:39:28,365 [main] INFO ebanking - Last name is entered
+2022-03-13 06:41:26,291 [main] INFO ebanking - URL is opened
+2022-03-13 06:41:57,100 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:41:58,405 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:42:44,106 [main] INFO ebanking - Title is entered
+2022-03-13 06:42:44,584 [main] INFO ebanking - Description is entered
+2022-03-13 06:42:44,922 [main] INFO ebanking - firstname is entered
+2022-03-13 06:42:45,093 [main] INFO ebanking - Last name is entered
+2022-03-13 06:50:52,645 [main] INFO ebanking - URL is opened
+2022-03-13 06:51:25,695 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:51:27,008 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:51:48,875 [main] INFO ebanking - Title is entered
+2022-03-13 06:51:49,066 [main] INFO ebanking - Description is entered
+2022-03-13 06:51:49,758 [main] INFO ebanking - firstname is entered
+2022-03-13 06:51:49,925 [main] INFO ebanking - Last name is entered
+2022-03-13 06:54:35,856 [main] INFO ebanking - URL is opened
+2022-03-13 06:55:05,964 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 06:55:06,825 [main] INFO ebanking - QueueType is clicked
+2022-03-13 06:55:20,162 [main] INFO ebanking - Title is entered
+2022-03-13 06:55:20,411 [main] INFO ebanking - Description is entered
+2022-03-13 06:55:37,725 [main] INFO ebanking - firstname is entered
+2022-03-13 06:55:37,881 [main] INFO ebanking - Last name is entered
+2022-03-13 07:00:38,055 [main] INFO ebanking - URL is opened
+2022-03-13 07:01:10,303 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 07:01:10,900 [main] INFO ebanking - QueueType is clicked
+2022-03-13 07:01:27,444 [main] INFO ebanking - Title is entered
+2022-03-13 07:01:27,674 [main] INFO ebanking - Description is entered
+2022-03-13 07:01:28,021 [main] INFO ebanking - firstname is entered
+2022-03-13 07:01:28,174 [main] INFO ebanking - Last name is entered
+2022-03-13 07:04:54,456 [main] INFO ebanking - URL is opened
+2022-03-13 07:05:24,445 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 07:05:25,722 [main] INFO ebanking - QueueType is clicked
+2022-03-13 07:05:43,761 [main] INFO ebanking - Title is entered
+2022-03-13 07:05:49,184 [main] INFO ebanking - Description is entered
+2022-03-13 07:05:49,538 [main] INFO ebanking - firstname is entered
+2022-03-13 07:05:49,725 [main] INFO ebanking - Last name is entered
+2022-03-13 07:06:37,114 [main] INFO ebanking - URL is opened
+2022-03-13 07:07:05,581 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 07:07:06,776 [main] INFO ebanking - QueueType is clicked
+2022-03-13 07:08:19,020 [main] INFO ebanking - Title is entered
+2022-03-13 07:08:19,229 [main] INFO ebanking - Description is entered
+2022-03-13 07:08:19,673 [main] INFO ebanking - firstname is entered
+2022-03-13 07:08:19,855 [main] INFO ebanking - Last name is entered
+2022-03-13 07:08:51,410 [main] INFO ebanking - URL is opened
+2022-03-13 07:09:21,685 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 07:09:22,709 [main] INFO ebanking - QueueType is clicked
+2022-03-13 07:10:13,097 [main] INFO ebanking - Title is entered
+2022-03-13 07:10:13,428 [main] INFO ebanking - Description is entered
+2022-03-13 07:10:13,714 [main] INFO ebanking - firstname is entered
+2022-03-13 07:10:13,863 [main] INFO ebanking - Last name is entered
+2022-03-13 07:11:53,346 [main] INFO ebanking - URL is opened
+2022-03-13 07:12:22,706 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 07:12:23,433 [main] INFO ebanking - QueueType is clicked
+2022-03-13 07:12:56,965 [main] INFO ebanking - Title is entered
+2022-03-13 07:12:57,155 [main] INFO ebanking - Description is entered
+2022-03-13 07:12:57,471 [main] INFO ebanking - firstname is entered
+2022-03-13 07:12:57,635 [main] INFO ebanking - Last name is entered
+2022-03-13 07:29:31,866 [main] INFO ebanking - URL is opened
+2022-03-13 07:30:05,561 [main] INFO ebanking - create ticket button is pressed
+2022-03-13 07:30:06,646 [main] INFO ebanking - QueueType is clicked
+2022-03-13 07:30:13,062 [main] INFO ebanking - Title is entered
+2022-03-13 07:30:14,307 [main] INFO ebanking - Description is entered
+2022-03-13 07:30:14,647 [main] INFO ebanking - firstname is entered
+2022-03-13 07:30:16,011 [main] INFO ebanking - Last name is entered
+2022-03-13 07:30:16,205 [main] INFO ebanking - phone number is entered
+2022-03-14 09:43:45,643 [main] INFO ebanking - URL is opened
+2022-03-14 09:44:23,363 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 09:44:24,529 [main] INFO ebanking - QueueType is clicked
+2022-03-14 09:44:31,067 [main] INFO ebanking - Title is entered
+2022-03-14 09:44:31,279 [main] INFO ebanking - Description is entered
+2022-03-14 09:44:31,592 [main] INFO ebanking - firstname is entered
+2022-03-14 09:44:32,238 [main] INFO ebanking - Last name is entered
+2022-03-14 09:44:32,479 [main] INFO ebanking - phone number is entered
+2022-03-14 09:44:35,324 [main] INFO ebanking - test case passed....
+2022-03-14 09:58:23,163 [main] INFO ebanking - URL is opened
+2022-03-14 09:58:53,788 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 09:58:54,946 [main] INFO ebanking - QueueType is clicked
+2022-03-14 09:59:00,546 [main] INFO ebanking - Title is entered
+2022-03-14 09:59:00,739 [main] INFO ebanking - Description is entered
+2022-03-14 09:59:01,044 [main] INFO ebanking - firstname is entered
+2022-03-14 09:59:01,278 [main] INFO ebanking - Last name is entered
+2022-03-14 09:59:01,489 [main] INFO ebanking - phone number is entered
+2022-03-14 09:59:03,891 [main] INFO ebanking - Email is entered
+2022-03-14 10:00:01,399 [main] INFO ebanking - URL is opened
+2022-03-14 10:01:04,167 [main] INFO ebanking - URL is opened
+2022-03-14 10:01:38,555 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 10:01:39,879 [main] INFO ebanking - QueueType is clicked
+2022-03-14 10:01:45,434 [main] INFO ebanking - Title is entered
+2022-03-14 10:01:45,623 [main] INFO ebanking - Description is entered
+2022-03-14 10:01:45,953 [main] INFO ebanking - firstname is entered
+2022-03-14 10:01:46,121 [main] INFO ebanking - Last name is entered
+2022-03-14 10:01:46,386 [main] INFO ebanking - phone number is entered
+2022-03-14 10:01:46,684 [main] INFO ebanking - Email is entered
+2022-03-14 10:01:46,851 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 10:01:47,003 [main] INFO ebanking - test case passed....
+2022-03-14 10:04:41,116 [main] INFO ebanking - URL is opened
+2022-03-14 10:05:19,508 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 10:05:21,315 [main] INFO ebanking - QueueType is clicked
+2022-03-14 10:05:46,205 [main] INFO ebanking - Title is entered
+2022-03-14 10:05:50,577 [main] INFO ebanking - Description is entered
+2022-03-14 10:05:51,092 [main] INFO ebanking - firstname is entered
+2022-03-14 10:05:51,271 [main] INFO ebanking - Last name is entered
+2022-03-14 10:05:51,482 [main] INFO ebanking - phone number is entered
+2022-03-14 10:05:51,688 [main] INFO ebanking - Email is entered
+2022-03-14 10:05:51,838 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 10:05:51,965 [main] INFO ebanking - test case passed....
+2022-03-14 10:07:13,728 [main] INFO ebanking - URL is opened
+2022-03-14 10:07:50,112 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 10:07:51,280 [main] INFO ebanking - QueueType is clicked
+2022-03-14 10:08:13,255 [main] INFO ebanking - Title is entered
+2022-03-14 10:08:13,698 [main] INFO ebanking - Description is entered
+2022-03-14 10:08:14,108 [main] INFO ebanking - firstname is entered
+2022-03-14 10:08:14,290 [main] INFO ebanking - Last name is entered
+2022-03-14 10:08:14,486 [main] INFO ebanking - phone number is entered
+2022-03-14 10:08:14,702 [main] INFO ebanking - Email is entered
+2022-03-14 10:08:14,831 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 10:08:14,972 [main] INFO ebanking - test case passed....
+2022-03-14 10:13:38,011 [main] INFO ebanking - URL is opened
+2022-03-14 10:14:11,440 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 10:14:12,637 [main] INFO ebanking - QueueType is clicked
+2022-03-14 10:14:15,936 [main] INFO ebanking - Title is entered
+2022-03-14 10:14:16,113 [main] INFO ebanking - Description is entered
+2022-03-14 10:14:16,457 [main] INFO ebanking - firstname is entered
+2022-03-14 10:14:21,683 [main] INFO ebanking - Last name is entered
+2022-03-14 10:14:21,901 [main] INFO ebanking - phone number is entered
+2022-03-14 10:14:22,130 [main] INFO ebanking - Email is entered
+2022-03-14 10:14:22,569 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 10:14:22,717 [main] INFO ebanking - test case passed....
+2022-03-14 10:16:02,156 [main] INFO ebanking - URL is opened
+2022-03-14 10:17:50,720 [main] INFO ebanking - URL is opened
+2022-03-14 10:18:24,111 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 10:18:25,340 [main] INFO ebanking - QueueType is clicked
+2022-03-14 10:18:28,718 [main] INFO ebanking - Title is entered
+2022-03-14 10:18:28,910 [main] INFO ebanking - Description is entered
+2022-03-14 10:18:29,216 [main] INFO ebanking - firstname is entered
+2022-03-14 10:18:40,989 [main] INFO ebanking - Last name is entered
+2022-03-14 10:18:41,197 [main] INFO ebanking - phone number is entered
+2022-03-14 10:18:42,225 [main] INFO ebanking - Email is entered
+2022-03-14 10:18:42,372 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 10:18:42,476 [main] INFO ebanking - test case passed....
+2022-03-14 10:21:28,087 [main] INFO ebanking - URL is opened
+2022-03-14 10:22:03,426 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 10:22:04,861 [main] INFO ebanking - QueueType is clicked
+2022-03-14 10:22:08,132 [main] INFO ebanking - Title is entered
+2022-03-14 10:22:08,322 [main] INFO ebanking - Description is entered
+2022-03-14 10:22:08,645 [main] INFO ebanking - firstname is entered
+2022-03-14 10:26:17,170 [main] INFO ebanking - URL is opened
+2022-03-14 10:26:52,604 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 10:26:53,690 [main] INFO ebanking - QueueType is clicked
+2022-03-14 10:26:57,033 [main] INFO ebanking - Title is entered
+2022-03-14 10:26:57,222 [main] INFO ebanking - Description is entered
+2022-03-14 10:26:57,561 [main] INFO ebanking - firstname is entered
+2022-03-14 10:26:59,357 [main] INFO ebanking - Last name is entered
+2022-03-14 10:26:59,536 [main] INFO ebanking - phone number is entered
+2022-03-14 10:27:00,537 [main] INFO ebanking - Email is entered
+2022-03-14 10:27:00,666 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 10:27:00,773 [main] INFO ebanking - test case passed....
+2022-03-14 10:53:47,353 [main] INFO ebanking - URL is opened
+2022-03-14 10:54:39,673 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 10:54:40,595 [main] INFO ebanking - QueueType is clicked
+2022-03-14 10:54:43,949 [main] INFO ebanking - Title is entered
+2022-03-14 10:54:44,132 [main] INFO ebanking - Description is entered
+2022-03-14 10:54:44,421 [main] INFO ebanking - firstname is entered
+2022-03-14 10:54:46,231 [main] INFO ebanking - Last name is entered
+2022-03-14 10:54:46,422 [main] INFO ebanking - phone number is entered
+2022-03-14 10:54:47,394 [main] INFO ebanking - Email is entered
+2022-03-14 10:54:47,539 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 10:54:47,712 [main] INFO ebanking - test case passed....
+2022-03-14 10:54:47,765 [main] INFO ebanking - URL is opened
+2022-03-14 11:00:57,758 [main] INFO ebanking - URL is opened
+2022-03-14 11:02:10,627 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 11:02:11,524 [main] INFO ebanking - QueueType is clicked
+2022-03-14 11:02:14,869 [main] INFO ebanking - Title is entered
+2022-03-14 11:02:15,041 [main] INFO ebanking - Description is entered
+2022-03-14 11:02:15,360 [main] INFO ebanking - firstname is entered
+2022-03-14 11:02:17,157 [main] INFO ebanking - Last name is entered
+2022-03-14 11:02:17,342 [main] INFO ebanking - phone number is entered
+2022-03-14 11:02:18,326 [main] INFO ebanking - Email is entered
+2022-03-14 11:02:18,469 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 11:02:18,609 [main] INFO ebanking - test case passed....
+2022-03-14 11:02:21,110 [main] INFO ebanking - URL is opened
+2022-03-14 11:05:50,679 [main] INFO ebanking - URL is opened
+2022-03-14 11:06:29,970 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 11:06:32,125 [main] INFO ebanking - URL is opened
+2022-03-14 11:09:04,949 [main] INFO ebanking - URL is opened
+2022-03-14 11:09:40,221 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 11:09:42,539 [main] INFO ebanking - QueueType is clicked
+2022-03-14 11:09:45,943 [main] INFO ebanking - Title is entered
+2022-03-14 11:09:46,137 [main] INFO ebanking - Description is entered
+2022-03-14 11:09:46,448 [main] INFO ebanking - firstname is entered
+2022-03-14 11:09:48,255 [main] INFO ebanking - Last name is entered
+2022-03-14 11:09:48,434 [main] INFO ebanking - phone number is entered
+2022-03-14 11:09:49,446 [main] INFO ebanking - Email is entered
+2022-03-14 11:09:49,590 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 11:09:49,720 [main] INFO ebanking - test case passed....
+2022-03-14 11:09:52,614 [main] INFO ebanking - URL is opened
+2022-03-14 11:15:14,174 [main] INFO ebanking - URL is opened
+2022-03-14 11:15:48,354 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 11:15:49,620 [main] INFO ebanking - QueueType is clicked
+2022-03-14 11:15:52,953 [main] INFO ebanking - Title is entered
+2022-03-14 11:15:53,128 [main] INFO ebanking - Description is entered
+2022-03-14 11:15:53,438 [main] INFO ebanking - firstname is entered
+2022-03-14 11:15:55,262 [main] INFO ebanking - Last name is entered
+2022-03-14 11:15:55,443 [main] INFO ebanking - phone number is entered
+2022-03-14 11:15:56,407 [main] INFO ebanking - Email is entered
+2022-03-14 11:15:56,539 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 11:15:56,662 [main] INFO ebanking - test case passed....
+2022-03-14 11:16:00,104 [main] INFO ebanking - URL is opened
+2022-03-14 11:18:47,097 [main] INFO ebanking - URL is opened
+2022-03-14 11:19:20,348 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 11:19:20,937 [main] INFO ebanking - QueueType is clicked
+2022-03-14 11:19:24,535 [main] INFO ebanking - Title is entered
+2022-03-14 11:19:24,710 [main] INFO ebanking - Description is entered
+2022-03-14 11:19:25,018 [main] INFO ebanking - firstname is entered
+2022-03-14 11:19:26,805 [main] INFO ebanking - Last name is entered
+2022-03-14 11:19:26,992 [main] INFO ebanking - phone number is entered
+2022-03-14 11:19:27,987 [main] INFO ebanking - Email is entered
+2022-03-14 11:19:28,125 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 11:19:28,226 [main] INFO ebanking - test case passed....
+2022-03-14 11:19:29,372 [main] INFO ebanking - URL is opened
+2022-03-14 11:29:25,605 [main] INFO ebanking - URL is opened
+2022-03-14 11:30:03,011 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 11:30:04,480 [main] INFO ebanking - URL is opened
+2022-03-14 11:31:45,426 [main] INFO ebanking - URL is opened
+2022-03-14 11:32:19,781 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 11:32:21,108 [main] INFO ebanking - QueueType is clicked
+2022-03-14 11:32:24,470 [main] INFO ebanking - Title is entered
+2022-03-14 11:32:24,658 [main] INFO ebanking - Description is entered
+2022-03-14 11:32:24,971 [main] INFO ebanking - firstname is entered
+2022-03-14 11:32:26,776 [main] INFO ebanking - Last name is entered
+2022-03-14 11:32:26,933 [main] INFO ebanking - phone number is entered
+2022-03-14 11:32:27,936 [main] INFO ebanking - Email is entered
+2022-03-14 11:32:28,077 [main] INFO ebanking - Ticket create button is clicked
+2022-03-14 11:32:28,184 [main] INFO ebanking - test case passed....
+2022-03-14 11:32:30,621 [main] INFO ebanking - URL is opened
+2022-03-14 11:33:49,681 [main] INFO ebanking - URL is opened
+2022-03-14 11:34:25,177 [main] INFO ebanking - create ticket button is pressed
+2022-03-14 11:34:26,814 [main] INFO ebanking - URL is opened
+2022-03-14 11:50:45,102 [main] INFO ebanking - URL is opened
+2022-03-14 11:59:38,319 [main] INFO ebanking - URL is opened
+2022-03-14 12:00:51,703 [main] INFO ebanking - URL is opened
+2022-03-14 12:02:29,812 [main] INFO ebanking - URL is opened
+2022-03-14 12:04:31,183 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 12:04:31,442 [main] INFO ebanking - test case passed....
+2022-03-14 15:45:35,461 [main] INFO ebanking - URL is opened
+2022-03-14 15:47:16,969 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 15:47:17,067 [main] INFO ebanking - test case passed....
+2022-03-14 15:47:38,454 [main] INFO ebanking - URL is opened
+2022-03-14 15:52:35,151 [main] INFO ebanking - URL is opened
+2022-03-14 16:03:45,124 [main] INFO ebanking - URL is opened
+2022-03-14 19:26:13,319 [main] INFO ebanking - URL is opened
+2022-03-14 19:26:46,639 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 19:26:46,942 [main] INFO ebanking - test case failed....
+2022-03-14 19:34:04,024 [main] INFO ebanking - URL is opened
+2022-03-14 19:34:37,289 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 19:34:40,389 [main] INFO ebanking - Single ticket is selected
+2022-03-14 19:34:40,485 [main] INFO ebanking - test case failed....
+2022-03-14 19:50:02,828 [main] INFO ebanking - URL is opened
+2022-03-14 19:50:34,979 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 19:50:37,087 [main] INFO ebanking - Single ticket is selected
+2022-03-14 19:50:37,255 [main] INFO ebanking - test case failed....
+2022-03-14 19:51:44,225 [main] INFO ebanking - URL is opened
+2022-03-14 19:52:15,077 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 19:52:17,238 [main] INFO ebanking - Single ticket is selected
+2022-03-14 19:52:20,335 [main] INFO ebanking - test case failed....
+2022-03-14 20:16:57,678 [main] INFO ebanking - URL is opened
+2022-03-14 20:18:06,290 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 20:18:09,164 [main] INFO ebanking - Single ticket is selected
+2022-03-14 20:24:40,471 [main] INFO ebanking - URL is opened
+2022-03-14 20:26:14,906 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 20:26:22,163 [main] INFO ebanking - Single ticket is selected
+2022-03-14 20:32:56,832 [main] INFO ebanking - URL is opened
+2022-03-14 20:33:43,639 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 20:33:46,364 [main] INFO ebanking - Single ticket is selected
+2022-03-14 20:33:49,439 [main] INFO ebanking - Login test failed
+2022-03-14 20:35:14,799 [main] INFO ebanking - URL is opened
+2022-03-14 20:36:19,677 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 20:36:22,466 [main] INFO ebanking - Single ticket is selected
+2022-03-14 20:41:20,206 [main] INFO ebanking - URL is opened
+2022-03-14 20:42:31,855 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 20:42:34,568 [main] INFO ebanking - Single ticket is selected
+2022-03-14 21:18:32,569 [main] INFO ebanking - URL is opened
+2022-03-14 21:19:06,915 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 21:19:09,147 [main] INFO ebanking - Single ticket is selected
+2022-03-14 21:21:48,689 [main] INFO ebanking - URL is opened
+2022-03-14 21:22:25,009 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 21:22:26,809 [main] INFO ebanking - Single ticket is selected
+2022-03-14 21:22:26,925 [main] INFO ebanking - Assign to button is clicked
+2022-03-14 21:29:18,113 [main] INFO ebanking - URL is opened
+2022-03-14 21:29:57,707 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 21:29:59,638 [main] INFO ebanking - Single ticket is selected
+2022-03-14 21:29:59,759 [main] INFO ebanking - Assign to button is clicked
+2022-03-14 21:29:59,913 [main] INFO ebanking - Assign to User login button is clicked
+2022-03-14 21:30:02,471 [main] INFO ebanking - User is Assigned a ticket
+2022-03-14 21:30:05,612 [main] INFO ebanking - test case passed....
+2022-03-14 21:43:56,554 [main] INFO ebanking - URL is opened
+2022-03-14 21:44:36,851 [main] INFO ebanking - All ticket tab is selected
+2022-03-14 21:44:39,286 [main] INFO ebanking - Single ticket is selected
+2022-03-14 21:44:39,408 [main] INFO ebanking - Assign to button is clicked
+2022-03-14 21:44:41,171 [main] INFO ebanking - Assign to Resource login button is clicked
+2022-03-14 21:44:44,248 [main] INFO ebanking - test case failed....
+2022-03-15 15:35:29,075 [main] INFO ebanking - URL is opened
+2022-03-15 15:36:53,165 [main] INFO ebanking - URL is opened
+2022-03-15 15:37:25,376 [main] INFO ebanking - All ticket tab is selected
+2022-03-15 15:43:50,003 [main] INFO ebanking - URL is opened
+2022-03-15 15:44:27,696 [main] INFO ebanking - All ticket tab is selected
+2022-03-15 15:45:53,430 [main] INFO ebanking - URL is opened
+2022-03-15 15:46:33,520 [main] INFO ebanking - All ticket tab is selected
+2022-03-15 15:53:53,249 [main] INFO ebanking - URL is opened
+2022-03-15 15:54:26,301 [main] INFO ebanking - All ticket tab is selected
+2022-03-15 15:56:07,736 [main] INFO ebanking - URL is opened
+2022-03-15 15:56:39,033 [main] INFO ebanking - All ticket tab is selected
+2022-03-15 16:03:12,136 [main] INFO ebanking - URL is opened
+2022-03-15 16:03:44,525 [main] INFO ebanking - All ticket tab is selected
+2022-03-15 16:04:57,549 [main] INFO ebanking - URL is opened
+2022-03-15 16:05:32,483 [main] INFO ebanking - All ticket tab is selected
+2022-03-15 16:10:37,695 [main] INFO ebanking - URL is opened
+2022-03-15 16:11:10,388 [main] INFO ebanking - All ticket tab is selected
+2022-03-15 16:15:16,384 [main] INFO ebanking - URL is opened
+2022-03-15 16:15:50,920 [main] INFO ebanking - All ticket tab is selected
+2022-03-15 16:21:06,983 [main] INFO ebanking - URL is opened
+2022-03-15 16:21:47,413 [main] INFO ebanking - All ticket tab is selected
+2022-03-15 20:46:45,857 [main] INFO ebanking - URL is opened
+2022-03-15 20:50:35,248 [main] INFO ebanking - URL is opened
+2022-03-15 20:50:36,592 [main] INFO ebanking - submit button is clicked
+2022-03-15 20:56:33,951 [main] INFO ebanking - URL is opened
+2022-03-15 20:56:35,085 [main] INFO ebanking - submit button is clicked
+2022-03-15 20:59:09,940 [main] INFO ebanking - URL is opened
+2022-03-15 20:59:11,114 [main] INFO ebanking - submit button is clicked
+2022-03-15 21:03:16,485 [main] INFO ebanking - URL is opened
+2022-03-15 21:03:17,580 [main] INFO ebanking - submit button is clicked
+2022-03-15 21:06:15,909 [main] INFO ebanking - URL is opened
+2022-03-15 21:07:19,125 [main] INFO ebanking - URL is opened
+2022-03-15 21:15:29,521 [main] INFO ebanking - URL is opened
+2022-03-16 08:52:08,155 [main] INFO ebanking - URL is opened
+2022-03-16 08:52:08,719 [main] INFO ebanking - submit button is clicked
+2022-03-16 09:25:19,781 [main] INFO ebanking - URL is opened
+2022-03-16 09:25:20,198 [main] INFO ebanking - submit button is clicked
+2022-03-16 09:27:11,456 [main] INFO ebanking - URL is opened
+2022-03-16 09:27:11,993 [main] INFO ebanking - submit button is clicked
+2022-03-16 09:28:29,748 [main] INFO ebanking - URL is opened
+2022-03-16 09:28:30,121 [main] INFO ebanking - submit button is clicked
+2022-03-16 09:30:08,027 [main] INFO ebanking - URL is opened
+2022-03-16 09:30:08,445 [main] INFO ebanking - submit button is clicked
+2022-03-16 09:32:28,249 [main] INFO ebanking - URL is opened
+2022-03-16 09:32:28,442 [main] INFO ebanking - Entered username
+2022-03-16 09:32:28,522 [main] INFO ebanking - Enter password
+2022-03-16 09:32:28,612 [main] INFO ebanking - Entered password
+2022-03-16 09:32:28,679 [main] INFO ebanking - button was clicked
+2022-03-16 09:32:28,827 [main] INFO ebanking - screen was maximized
+2022-03-16 09:36:32,881 [main] INFO ebanking - URL is opened
+2022-03-16 09:36:33,059 [main] INFO ebanking - Entered username
+2022-03-16 09:36:33,142 [main] INFO ebanking - Enter password
+2022-03-16 09:36:33,231 [main] INFO ebanking - Entered password
+2022-03-16 09:36:33,305 [main] INFO ebanking - button was clicked
+2022-03-16 09:36:33,432 [main] INFO ebanking - screen was maximized
+2022-03-16 09:41:54,376 [main] INFO ebanking - URL is opened
+2022-03-16 09:41:54,576 [main] INFO ebanking - Entered username
+2022-03-16 09:41:54,661 [main] INFO ebanking - Enter password
+2022-03-16 09:41:54,768 [main] INFO ebanking - Entered password
+2022-03-16 09:41:54,824 [main] INFO ebanking - button was clicked
+2022-03-16 09:41:54,960 [main] INFO ebanking - screen was maximized
+2022-03-16 09:43:26,704 [main] INFO ebanking - URL is opened
+2022-03-16 09:43:26,887 [main] INFO ebanking - Entered username
+2022-03-16 09:43:26,971 [main] INFO ebanking - Enter password
+2022-03-16 09:43:27,050 [main] INFO ebanking - Entered password
+2022-03-16 09:43:27,101 [main] INFO ebanking - button was clicked
+2022-03-16 09:43:27,229 [main] INFO ebanking - screen was maximized
+2022-03-16 09:48:33,931 [main] INFO ebanking - URL is opened
+2022-03-16 09:48:34,129 [main] INFO ebanking - Entered username
+2022-03-16 09:48:34,210 [main] INFO ebanking - Enter password
+2022-03-16 09:48:34,284 [main] INFO ebanking - Entered password
+2022-03-16 09:48:34,334 [main] INFO ebanking - button was clicked
+2022-03-16 09:48:34,457 [main] INFO ebanking - screen was maximized
+2022-03-16 09:50:38,337 [main] INFO ebanking - URL is opened
+2022-03-16 09:50:38,559 [main] INFO ebanking - Entered username
+2022-03-16 09:50:38,656 [main] INFO ebanking - Enter password
+2022-03-16 09:50:38,738 [main] INFO ebanking - Entered password
+2022-03-16 09:50:38,806 [main] INFO ebanking - button was clicked
+2022-03-16 09:50:38,940 [main] INFO ebanking - screen was maximized
+2022-03-16 09:51:47,217 [main] INFO ebanking - URL is opened
+2022-03-16 09:51:47,391 [main] INFO ebanking - Entered username
+2022-03-16 09:51:47,473 [main] INFO ebanking - Enter password
+2022-03-16 09:51:47,558 [main] INFO ebanking - Entered password
+2022-03-16 09:51:47,612 [main] INFO ebanking - button was clicked
+2022-03-16 09:51:47,743 [main] INFO ebanking - screen was maximized
+2022-03-16 09:52:41,994 [main] INFO ebanking - URL is opened
+2022-03-16 09:52:42,178 [main] INFO ebanking - Entered username
+2022-03-16 09:52:42,263 [main] INFO ebanking - Enter password
+2022-03-16 09:52:42,339 [main] INFO ebanking - Entered password
+2022-03-16 09:52:42,388 [main] INFO ebanking - button was clicked
+2022-03-16 09:52:42,516 [main] INFO ebanking - screen was maximized
+2022-03-16 09:55:57,240 [main] INFO ebanking - URL is opened
+2022-03-16 09:55:57,487 [main] INFO ebanking - Entered username
+2022-03-16 09:55:57,580 [main] INFO ebanking - Enter password
+2022-03-16 09:55:57,654 [main] INFO ebanking - Entered password
+2022-03-16 09:55:57,710 [main] INFO ebanking - button was clicked
+2022-03-16 09:55:57,842 [main] INFO ebanking - screen was maximized
+2022-03-16 10:05:12,208 [main] INFO ebanking - URL is opened
+2022-03-16 10:06:19,927 [main] INFO ebanking - Entered username
+2022-03-16 10:06:20,017 [main] INFO ebanking - Enter password
+2022-03-16 10:06:20,097 [main] INFO ebanking - Entered password
+2022-03-16 10:06:20,148 [main] INFO ebanking - button was clicked
+2022-03-16 10:06:20,285 [main] INFO ebanking - screen was maximized
+2022-03-16 10:08:03,480 [main] INFO ebanking - URL is opened
+2022-03-16 10:08:03,683 [main] INFO ebanking - Entered username
+2022-03-16 10:08:03,771 [main] INFO ebanking - Enter password
+2022-03-16 10:08:03,867 [main] INFO ebanking - Entered password
+2022-03-16 10:08:03,975 [main] INFO ebanking - button was clicked
+2022-03-16 10:08:04,103 [main] INFO ebanking - screen was maximized
+2022-03-16 10:16:12,651 [main] INFO ebanking - URL is opened
+2022-03-16 10:16:12,830 [main] INFO ebanking - Entered username
+2022-03-16 10:16:12,916 [main] INFO ebanking - Enter password
+2022-03-16 10:16:13,054 [main] INFO ebanking - Entered password
+2022-03-16 10:16:13,109 [main] INFO ebanking - button was clicked
+2022-03-16 10:16:13,234 [main] INFO ebanking - screen was maximized
+2022-03-16 10:18:08,062 [main] INFO ebanking - URL is opened
+2022-03-16 10:18:08,256 [main] INFO ebanking - Entered username
+2022-03-16 10:18:08,339 [main] INFO ebanking - Enter password
+2022-03-16 10:18:08,418 [main] INFO ebanking - Entered password
+2022-03-16 10:18:08,497 [main] INFO ebanking - button was clicked
+2022-03-16 10:18:08,628 [main] INFO ebanking - screen was maximized
+2022-03-16 10:19:35,988 [main] INFO ebanking - URL is opened
+2022-03-16 10:19:36,504 [main] INFO ebanking - submit button is clicked
+2022-03-16 10:23:42,436 [main] INFO ebanking - URL is opened
+2022-03-16 10:23:42,861 [main] INFO ebanking - submit button is clicked
+2022-03-16 10:27:03,931 [main] INFO ebanking - URL is opened
+2022-03-16 10:27:04,366 [main] INFO ebanking - submit button is clicked
+2022-03-16 10:44:19,212 [main] INFO ebanking - URL is opened
+2022-03-16 10:44:19,714 [main] INFO ebanking - submit button is clicked
+2022-03-16 10:46:12,553 [main] INFO ebanking - URL is opened
+2022-03-16 10:46:13,027 [main] INFO ebanking - submit button is clicked
+2022-03-16 10:55:05,262 [main] INFO ebanking - URL is opened
+2022-03-16 10:55:05,647 [main] INFO ebanking - submit button is clicked
+2022-03-16 11:00:59,873 [main] INFO ebanking - URL is opened
+2022-03-16 11:01:00,346 [main] INFO ebanking - submit button is clicked
+2022-03-16 11:02:53,777 [main] INFO ebanking - URL is opened
+2022-03-16 11:02:54,203 [main] INFO ebanking - submit button is clicked
+2022-03-16 11:06:38,046 [main] INFO ebanking - URL is opened
+2022-03-16 11:06:38,498 [main] INFO ebanking - submit button is clicked
+2022-03-16 11:31:03,731 [main] INFO ebanking - URL is opened
+2022-03-16 11:31:04,127 [main] INFO ebanking - submit button is clicked
+2022-03-16 11:36:01,325 [main] INFO ebanking - URL is opened
+2022-03-16 11:36:01,898 [main] INFO ebanking - submit button is clicked
+2022-03-16 15:23:27,450 [main] INFO ebanking - URL is opened
+2022-03-16 15:23:28,406 [main] INFO ebanking - submit button is clicked
+2022-03-16 15:37:47,067 [main] INFO ebanking - URL is opened
+2022-03-16 15:37:47,932 [main] INFO ebanking - submit button is clicked
+2022-03-16 15:45:43,601 [main] INFO ebanking - URL is opened
+2022-03-16 15:45:44,579 [main] INFO ebanking - submit button is clicked
+2022-03-16 15:48:19,601 [main] INFO ebanking - URL is opened
+2022-03-16 15:48:20,480 [main] INFO ebanking - submit button is clicked
+2022-03-16 15:53:02,957 [main] INFO ebanking - URL is opened
+2022-03-16 15:53:03,816 [main] INFO ebanking - submit button is clicked
+2022-03-16 15:54:38,046 [main] INFO ebanking - options is selected
+2022-03-16 15:57:51,087 [main] INFO ebanking - URL is opened
+2022-03-16 15:57:51,980 [main] INFO ebanking - submit button is clicked
+2022-03-16 15:58:55,865 [main] INFO ebanking - options is selected
+2022-03-16 16:03:38,204 [main] INFO ebanking - URL is opened
+2022-03-16 16:03:39,018 [main] INFO ebanking - submit button is clicked
+2022-03-16 16:04:44,422 [main] INFO ebanking - options is selected
+2022-03-16 16:10:19,318 [main] INFO ebanking - URL is opened
+2022-03-16 16:10:20,156 [main] INFO ebanking - submit button is clicked
+2022-03-16 16:11:49,677 [main] INFO ebanking - options is selected
+2022-03-16 16:14:23,623 [main] INFO ebanking - URL is opened
+2022-03-16 16:14:24,481 [main] INFO ebanking - submit button is clicked
+2022-03-16 16:16:54,968 [main] INFO ebanking - options is selected
+2022-03-16 16:23:18,385 [main] INFO ebanking - URL is opened
+2022-03-16 16:23:19,337 [main] INFO ebanking - submit button is clicked
+2022-03-16 16:27:29,142 [main] INFO ebanking - URL is opened
+2022-03-16 16:27:30,346 [main] INFO ebanking - submit button is clicked
+2022-03-16 16:30:58,146 [main] INFO ebanking - options is selected
+2022-03-16 16:33:07,508 [main] INFO ebanking - URL is opened
+2022-03-16 16:33:08,335 [main] INFO ebanking - submit button is clicked
+2022-03-16 16:34:35,253 [main] INFO ebanking - options is selected
+2022-03-16 16:49:54,213 [main] INFO ebanking - URL is opened
+2022-03-16 16:49:55,068 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:07:47,165 [main] INFO ebanking - URL is opened
+2022-03-16 21:07:47,595 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:08:15,749 [main] INFO ebanking - options is selected
+2022-03-16 21:08:16,285 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:16:10,597 [main] INFO ebanking - URL is opened
+2022-03-16 21:16:11,067 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:16:37,551 [main] INFO ebanking - options is selected
+2022-03-16 21:16:38,096 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:18:56,986 [main] INFO ebanking - URL is opened
+2022-03-16 21:18:57,369 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:19:25,094 [main] INFO ebanking - options is selected
+2022-03-16 21:19:25,692 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:22:27,895 [main] INFO ebanking - URL is opened
+2022-03-16 21:22:28,294 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:22:55,634 [main] INFO ebanking - options is selected
+2022-03-16 21:22:56,282 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:24:20,008 [main] INFO ebanking - URL is opened
+2022-03-16 21:24:20,393 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:24:43,167 [main] INFO ebanking - options is selected
+2022-03-16 21:24:43,879 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:24:43,995 [main] INFO ebanking - button is clicked for queue
+2022-03-16 21:34:20,062 [main] INFO ebanking - URL is opened
+2022-03-16 21:34:20,465 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:35:10,113 [main] INFO ebanking - options is selected
+2022-03-16 21:35:10,651 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:35:10,763 [main] INFO ebanking - button is clicked for queue
+2022-03-16 21:36:53,765 [main] INFO ebanking - URL is opened
+2022-03-16 21:36:54,136 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:37:57,987 [main] INFO ebanking - options is selected
+2022-03-16 21:37:58,534 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:37:58,639 [main] INFO ebanking - button is clicked for queue
+2022-03-16 21:39:52,460 [main] INFO ebanking - URL is opened
+2022-03-16 21:39:52,840 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:40:56,084 [main] INFO ebanking - options is selected
+2022-03-16 21:40:57,250 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:40:57,358 [main] INFO ebanking - button is clicked for queue
+2022-03-16 21:45:11,541 [main] INFO ebanking - URL is opened
+2022-03-16 21:45:12,185 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:45:52,023 [main] INFO ebanking - options is selected
+2022-03-16 21:45:52,589 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:45:52,745 [main] INFO ebanking - button is clicked for queue
+2022-03-16 21:53:58,863 [main] INFO ebanking - URL is opened
+2022-03-16 21:53:59,384 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:54:47,123 [main] INFO ebanking - options is selected
+2022-03-16 21:54:47,661 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:54:47,776 [main] INFO ebanking - button is clicked for queue
+2022-03-16 21:54:50,836 [main] INFO ebanking - confirmed
+2022-03-16 21:56:53,953 [main] INFO ebanking - URL is opened
+2022-03-16 21:56:54,407 [main] INFO ebanking - submit button is clicked
+2022-03-16 21:57:51,673 [main] INFO ebanking - options is selected
+2022-03-16 21:57:52,310 [main] INFO ebanking - Status tile is entered
+2022-03-16 21:57:52,414 [main] INFO ebanking - button is clicked for queue
+2022-03-16 21:57:55,474 [main] INFO ebanking - confirmed
+2022-03-16 22:00:44,089 [main] INFO ebanking - URL is opened
+2022-03-16 22:00:44,453 [main] INFO ebanking - submit button is clicked
+2022-03-16 22:01:27,666 [main] INFO ebanking - options is selected
+2022-03-16 22:01:28,214 [main] INFO ebanking - Status tile is entered
+2022-03-16 22:01:28,329 [main] INFO ebanking - button is clicked for queue
+2022-03-16 22:01:31,407 [main] INFO ebanking - confirmed
+2022-03-16 22:17:34,963 [main] INFO ebanking - URL is opened
+2022-03-16 22:17:35,918 [main] INFO ebanking - submit button is clicked
+2022-03-16 22:20:18,289 [main] INFO ebanking - URL is opened
+2022-03-16 22:20:19,169 [main] INFO ebanking - submit button is clicked
+2022-03-16 22:21:54,197 [main] INFO ebanking - options is selected
+2022-03-16 22:21:55,365 [main] INFO ebanking - Status tile is entered
+2022-03-16 22:21:55,683 [main] INFO ebanking - button is clicked for queue
+2022-03-16 22:21:58,790 [main] INFO ebanking - confirmed
+2022-03-17 04:59:32,451 [main] INFO ebanking - URL is opened
+2022-03-17 04:59:33,762 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:00:13,067 [main] INFO ebanking - options is selected
+2022-03-17 05:00:13,727 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:00:14,011 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:00:17,122 [main] INFO ebanking - confirmed
+2022-03-17 05:02:29,749 [main] INFO ebanking - URL is opened
+2022-03-17 05:02:31,025 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:03:10,703 [main] INFO ebanking - options is selected
+2022-03-17 05:03:11,386 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:03:11,697 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:03:14,791 [main] INFO ebanking - confirmed
+2022-03-17 05:03:22,573 [main] INFO ebanking - form button is pressed
+2022-03-17 05:21:58,900 [main] INFO ebanking - URL is opened
+2022-03-17 05:21:59,820 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:22:46,283 [main] INFO ebanking - options is selected
+2022-03-17 05:22:47,026 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:22:47,400 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:22:50,518 [main] INFO ebanking - confirmed
+2022-03-17 05:22:55,178 [main] INFO ebanking - form button is pressed
+2022-03-17 05:28:59,201 [main] INFO ebanking - URL is opened
+2022-03-17 05:29:00,131 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:30:09,029 [main] INFO ebanking - options is selected
+2022-03-17 05:30:09,895 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:30:10,264 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:30:41,681 [main] INFO ebanking - confirmed
+2022-03-17 05:31:29,978 [main] INFO ebanking - URL is opened
+2022-03-17 05:31:30,898 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:32:24,742 [main] INFO ebanking - options is selected
+2022-03-17 05:32:25,455 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:32:25,783 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:32:28,897 [main] INFO ebanking - confirmed
+2022-03-17 05:32:33,554 [main] INFO ebanking - form button is pressed
+2022-03-17 05:33:58,335 [main] INFO ebanking - URL is opened
+2022-03-17 05:33:59,393 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:35:12,267 [main] INFO ebanking - options is selected
+2022-03-17 05:35:13,093 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:35:13,460 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:35:28,482 [main] INFO ebanking - confirmed
+2022-03-17 05:35:33,179 [main] INFO ebanking - form button is pressed
+2022-03-17 05:38:29,384 [main] INFO ebanking - URL is opened
+2022-03-17 05:38:30,326 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:39:12,311 [main] INFO ebanking - options is selected
+2022-03-17 05:39:13,143 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:39:13,489 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:39:16,594 [main] INFO ebanking - confirmed
+2022-03-17 05:39:21,278 [main] INFO ebanking - form button is pressed
+2022-03-17 05:40:28,063 [main] INFO ebanking - URL is opened
+2022-03-17 05:40:29,187 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:41:30,651 [main] INFO ebanking - options is selected
+2022-03-17 05:42:42,532 [main] INFO ebanking - URL is opened
+2022-03-17 05:42:43,489 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:43:49,194 [main] INFO ebanking - options is selected
+2022-03-17 05:43:50,133 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:43:50,511 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:44:18,901 [main] INFO ebanking - confirmed
+2022-03-17 05:44:23,644 [main] INFO ebanking - form button is pressed
+2022-03-17 05:45:16,814 [main] INFO ebanking - URL is opened
+2022-03-17 05:45:17,827 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:46:15,607 [main] INFO ebanking - options is selected
+2022-03-17 05:46:16,395 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:46:16,764 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:46:19,863 [main] INFO ebanking - confirmed
+2022-03-17 05:46:24,523 [main] INFO ebanking - form button is pressed
+2022-03-17 05:51:27,331 [main] INFO ebanking - URL is opened
+2022-03-17 05:51:28,387 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:52:06,738 [main] INFO ebanking - options is selected
+2022-03-17 05:52:07,540 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:52:07,871 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:52:10,984 [main] INFO ebanking - confirmed
+2022-03-17 05:52:15,611 [main] INFO ebanking - form button is pressed
+2022-03-17 05:53:33,336 [main] INFO ebanking - URL is opened
+2022-03-17 05:53:34,350 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:54:35,534 [main] INFO ebanking - options is selected
+2022-03-17 05:54:36,671 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:54:36,974 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:54:40,088 [main] INFO ebanking - confirmed
+2022-03-17 05:54:44,802 [main] INFO ebanking - form button is pressed
+2022-03-17 05:57:40,829 [main] INFO ebanking - URL is opened
+2022-03-17 05:57:41,938 [main] INFO ebanking - submit button is clicked
+2022-03-17 05:58:31,774 [main] INFO ebanking - options is selected
+2022-03-17 05:58:32,579 [main] INFO ebanking - Status tile is entered
+2022-03-17 05:58:32,927 [main] INFO ebanking - button is clicked for queue
+2022-03-17 05:58:36,018 [main] INFO ebanking - confirmed
+2022-03-17 05:58:40,652 [main] INFO ebanking - form button is pressed
+2022-03-17 06:10:57,155 [main] INFO ebanking - URL is opened
+2022-03-17 06:10:58,186 [main] INFO ebanking - submit button is clicked
+2022-03-17 06:11:46,264 [main] INFO ebanking - options is selected
+2022-03-17 06:11:46,991 [main] INFO ebanking - Status tile is entered
+2022-03-17 06:11:47,319 [main] INFO ebanking - button is clicked for queue
+2022-03-17 06:11:50,436 [main] INFO ebanking - confirmed
+2022-03-17 06:11:55,099 [main] INFO ebanking - form button is pressed
+2022-03-17 06:16:59,226 [main] INFO ebanking - URL is opened
+2022-03-17 06:17:00,316 [main] INFO ebanking - submit button is clicked
+2022-03-17 06:17:50,702 [main] INFO ebanking - options is selected
+2022-03-17 06:17:51,415 [main] INFO ebanking - Status tile is entered
+2022-03-17 06:17:51,772 [main] INFO ebanking - button is clicked for queue
+2022-03-17 06:17:54,889 [main] INFO ebanking - confirmed
+2022-03-17 06:17:59,528 [main] INFO ebanking - form button is pressed
+2022-03-17 06:19:15,099 [main] INFO ebanking - URL is opened
+2022-03-17 06:19:16,113 [main] INFO ebanking - submit button is clicked
+2022-03-17 06:19:57,050 [main] INFO ebanking - options is selected
+2022-03-17 06:19:57,861 [main] INFO ebanking - Status tile is entered
+2022-03-17 06:19:58,204 [main] INFO ebanking - button is clicked for queue
+2022-03-17 06:20:01,321 [main] INFO ebanking - confirmed
+2022-03-17 06:20:05,992 [main] INFO ebanking - form button is pressed
+2022-03-17 06:27:17,775 [main] INFO ebanking - URL is opened
+2022-03-17 06:27:18,914 [main] INFO ebanking - submit button is clicked
+2022-03-17 06:28:01,083 [main] INFO ebanking - options is selected
+2022-03-17 06:28:01,840 [main] INFO ebanking - Status tile is entered
+2022-03-17 06:28:02,163 [main] INFO ebanking - button is clicked for queue
+2022-03-17 06:28:05,280 [main] INFO ebanking - confirmed
+2022-03-17 06:28:09,956 [main] INFO ebanking - form button is pressed
+2022-03-17 06:33:40,739 [main] INFO ebanking - URL is opened
+2022-03-17 06:33:41,741 [main] INFO ebanking - submit button is clicked
+2022-03-17 06:34:21,886 [main] INFO ebanking - options is selected
+2022-03-17 06:34:22,541 [main] INFO ebanking - Status tile is entered
+2022-03-17 06:34:22,862 [main] INFO ebanking - button is clicked for queue
+2022-03-17 06:34:25,970 [main] INFO ebanking - confirmed
+2022-03-17 06:34:30,634 [main] INFO ebanking - form button is pressed
+2022-03-17 06:45:01,321 [main] INFO ebanking - URL is opened
+2022-03-17 06:45:02,330 [main] INFO ebanking - submit button is clicked
+2022-03-17 06:45:43,144 [main] INFO ebanking - options is selected
+2022-03-17 06:45:43,822 [main] INFO ebanking - Status tile is entered
+2022-03-17 06:45:44,156 [main] INFO ebanking - button is clicked for queue
+2022-03-17 06:46:00,355 [main] INFO ebanking - confirmed
+2022-03-17 06:46:05,063 [main] INFO ebanking - form button is pressed
+2022-03-17 06:47:17,287 [main] INFO ebanking - URL is opened
+2022-03-17 06:47:18,405 [main] INFO ebanking - submit button is clicked
+2022-03-17 06:47:55,354 [main] INFO ebanking - options is selected
+2022-03-17 06:47:56,090 [main] INFO ebanking - Status tile is entered
+2022-03-17 06:47:56,422 [main] INFO ebanking - button is clicked for queue
+2022-03-17 06:47:59,537 [main] INFO ebanking - confirmed
+2022-03-17 06:48:04,225 [main] INFO ebanking - form button is pressed
+2022-03-17 06:48:24,856 [main] INFO ebanking - test case failed....
+2022-03-17 06:49:21,322 [main] INFO ebanking - URL is opened
+2022-03-17 06:49:22,338 [main] INFO ebanking - submit button is clicked
+2022-03-17 06:50:05,892 [main] INFO ebanking - options is selected
+2022-03-17 06:50:06,539 [main] INFO ebanking - Status tile is entered
+2022-03-17 06:50:06,894 [main] INFO ebanking - button is clicked for queue
+2022-03-17 06:50:09,990 [main] INFO ebanking - confirmed
+2022-03-17 06:50:14,626 [main] INFO ebanking - form button is pressed
+2022-03-17 06:50:59,676 [main] INFO ebanking - test case failed....
+2022-03-17 06:53:25,584 [main] INFO ebanking - URL is opened
+2022-03-17 06:53:25,985 [main] INFO ebanking - submit button is clicked
+2022-03-17 06:54:06,010 [main] INFO ebanking - options is selected
+2022-03-17 06:54:06,567 [main] INFO ebanking - Status tile is entered
+2022-03-17 06:54:06,694 [main] INFO ebanking - button is clicked for queue
+2022-03-17 06:54:09,765 [main] INFO ebanking - confirmed
+2022-03-17 06:54:14,092 [main] INFO ebanking - form button is pressed
+2022-03-17 06:58:23,373 [main] INFO ebanking - URL is opened
+2022-03-17 06:58:23,810 [main] INFO ebanking - submit button is clicked
+2022-03-17 06:58:58,955 [main] INFO ebanking - options is selected
+2022-03-17 06:58:59,502 [main] INFO ebanking - Status tile is entered
+2022-03-17 06:58:59,603 [main] INFO ebanking - button is clicked for queue
+2022-03-17 06:59:02,679 [main] INFO ebanking - confirmed
+2022-03-17 06:59:07,027 [main] INFO ebanking - form button is pressed
+2022-03-17 07:01:48,394 [main] INFO ebanking - URL is opened
+2022-03-17 07:01:48,787 [main] INFO ebanking - submit button is clicked
+2022-03-17 07:04:56,468 [main] INFO ebanking - URL is opened
+2022-03-17 07:04:56,925 [main] INFO ebanking - submit button is clicked
+2022-03-17 07:07:16,934 [main] INFO ebanking - URL is opened
+2022-03-17 07:07:17,382 [main] INFO ebanking - submit button is clicked
+2022-03-17 07:11:44,419 [main] INFO ebanking - URL is opened
+2022-03-17 07:11:44,828 [main] INFO ebanking - submit button is clicked
+2022-03-17 07:13:39,814 [main] INFO ebanking - URL is opened
+2022-03-17 07:13:40,213 [main] INFO ebanking - submit button is clicked
+2022-03-17 07:15:18,579 [main] INFO ebanking - URL is opened
+2022-03-17 07:15:18,960 [main] INFO ebanking - submit button is clicked
+2022-03-17 07:16:00,520 [main] INFO ebanking - options is selected
+2022-03-17 07:16:01,070 [main] INFO ebanking - Status tile is entered
+2022-03-17 07:16:01,175 [main] INFO ebanking - button is clicked for queue
+2022-03-17 07:16:04,256 [main] INFO ebanking - confirmed
+2022-03-17 07:16:08,620 [main] INFO ebanking - form button is pressed
+2022-03-17 07:18:21,032 [main] INFO ebanking - URL is opened
+2022-03-17 07:18:21,411 [main] INFO ebanking - submit button is clicked
+2022-03-17 07:20:04,229 [main] INFO ebanking - options is selected
+2022-03-17 10:48:46,518 [main] INFO ebanking - URL is opened
+2022-03-17 10:48:46,970 [main] INFO ebanking - submit button is clicked
+2022-03-17 10:53:26,488 [main] INFO ebanking - URL is opened
+2022-03-17 10:54:01,101 [main] INFO ebanking - URL is opened
+2022-03-17 10:54:01,554 [main] INFO ebanking - submit button is clicked
+2022-03-17 10:56:20,746 [main] INFO ebanking - URL is opened
+2022-03-17 10:56:21,191 [main] INFO ebanking - submit button is clicked
+2022-03-17 10:59:08,360 [main] INFO ebanking - options is selected
+2022-03-17 10:59:08,952 [main] INFO ebanking - Status tile is entered
+2022-03-17 10:59:09,128 [main] INFO ebanking - button is clicked for queue
+2022-03-17 10:59:12,188 [main] INFO ebanking - confirmed
+2022-03-17 10:59:16,652 [main] INFO ebanking - form button is pressed
+2022-03-17 13:02:47,130 [main] INFO ebanking - URL is opened
+2022-03-17 13:02:48,394 [main] INFO ebanking - submit button is clicked
+2022-03-17 15:22:29,710 [main] INFO ebanking - URL is opened
+2022-03-17 15:37:54,980 [main] INFO ebanking - URL is opened
+2022-03-17 15:45:12,182 [main] INFO ebanking - URL is opened
+2022-03-17 15:55:53,655 [main] INFO ebanking - URL is opened
+2022-03-17 15:59:07,056 [main] INFO ebanking - URL is opened
+2022-03-17 16:01:36,219 [main] INFO ebanking - URL is opened
+2022-03-17 16:07:42,242 [main] INFO ebanking - URL is opened
+2022-03-17 16:08:36,741 [main] INFO ebanking - test case failed....
+2022-03-17 16:09:45,185 [main] INFO ebanking - URL is opened
+2022-03-17 16:10:32,429 [main] INFO ebanking - test case failed....
+2022-03-17 16:11:53,275 [main] INFO ebanking - URL is opened
+2022-03-17 16:12:28,711 [main] INFO ebanking - test case failed....
+2022-03-17 16:15:51,432 [main] INFO ebanking - URL is opened
+2022-03-17 16:16:41,661 [main] INFO ebanking - URL is opened
+2022-03-17 16:17:28,191 [main] INFO ebanking - test case passed....
+2022-03-17 16:24:22,917 [main] INFO ebanking - URL is opened
+2022-03-17 16:24:23,388 [main] INFO ebanking - login completed
+2022-03-17 16:24:40,258 [main] INFO ebanking - page is scrolled
+2022-03-17 16:24:52,777 [main] INFO ebanking - User menu button is clicked
+2022-03-17 16:24:55,474 [main] INFO ebanking - Role is clicked
+2022-03-17 16:24:59,732 [main] INFO ebanking - Create role button is clicked
+2022-03-17 16:25:02,836 [main] INFO ebanking - Name is entered
+2022-03-17 16:25:02,898 [main] INFO ebanking - Description is entered
+2022-03-17 16:25:25,754 [main] INFO ebanking - URL is opened
+2022-03-17 16:25:26,264 [main] INFO ebanking - login completed
+2022-03-17 16:25:35,526 [main] INFO ebanking - page is scrolled
+2022-03-17 16:25:42,100 [main] INFO ebanking - User menu button is clicked
+2022-03-17 16:25:43,940 [main] INFO ebanking - Role is clicked
+2022-03-17 16:25:48,005 [main] INFO ebanking - Create role button is clicked
+2022-03-17 16:25:51,087 [main] INFO ebanking - Name is entered
+2022-03-17 16:25:51,158 [main] INFO ebanking - Description is entered
+2022-03-17 16:25:51,972 [main] INFO ebanking - Access button is clicked
+2022-03-17 16:25:55,049 [main] INFO ebanking - Role is given all access
+2022-03-17 16:25:55,953 [main] INFO ebanking - access queue button  is clicked
+2022-03-17 16:25:56,003 [main] INFO ebanking - All roles has been assigned
+2022-03-17 16:25:56,027 [main] INFO ebanking - Page is scrolled
+2022-03-17 16:25:56,072 [main] INFO ebanking - Done button is clicked
+2022-03-17 16:26:01,281 [main] INFO ebanking - test case passed....
+2022-03-17 17:40:55,220 [main] INFO ebanking - URL is opened
+2022-03-17 17:41:39,154 [main] INFO ebanking - User menu button is clicked
+2022-03-17 17:41:40,701 [main] INFO ebanking - department is selected from the menu
+2022-03-17 17:41:42,498 [main] INFO ebanking - department create button is clicked
+2022-03-17 17:41:42,578 [main] INFO ebanking - Department Name is entered
+2022-03-17 17:41:42,659 [main] INFO ebanking - description is entered
+2022-03-17 17:41:42,749 [main] INFO ebanking - Approval group is selected
+2022-03-17 17:41:44,079 [main] INFO ebanking - Department button is clicked
+2022-03-17 17:41:49,132 [main] INFO ebanking - test case passed....
+2022-03-18 07:52:58,269 [main] INFO ebanking - URL is opened
+2022-03-18 14:20:58,942 [main] INFO ebanking - URL is opened
+2022-03-18 14:24:30,062 [main] INFO ebanking - URL is opened
+2022-03-18 14:24:51,707 [main] INFO ebanking - Email is entered
+2022-03-18 14:47:59,166 [main] INFO ebanking - URL is opened
+2022-03-18 14:48:21,692 [main] INFO ebanking - Email is entered
+2022-03-18 14:49:55,391 [main] INFO ebanking - URL is opened
+2022-03-18 14:50:18,002 [main] INFO ebanking - Email is entered
+2022-03-18 14:55:06,497 [main] INFO ebanking - URL is opened
+2022-03-18 14:55:28,036 [main] INFO ebanking - Email is entered
+2022-03-18 14:57:54,591 [main] INFO ebanking - URL is opened
+2022-03-18 14:58:16,751 [main] INFO ebanking - Email is entered
+2022-03-18 15:06:40,629 [main] INFO ebanking - URL is opened
+2022-03-18 15:07:03,739 [main] INFO ebanking - Email is entered
+2022-03-18 15:08:51,499 [main] INFO ebanking - URL is opened
+2022-03-18 15:09:14,335 [main] INFO ebanking - Email is entered
+2022-03-18 15:18:39,556 [main] INFO ebanking - URL is opened
+2022-03-18 15:19:00,889 [main] INFO ebanking - Email is entered
+2022-03-18 15:20:04,065 [main] INFO ebanking - URL is opened
+2022-03-18 15:20:27,815 [main] INFO ebanking - Email is entered
+2022-03-18 16:01:58,523 [main] INFO ebanking - URL is opened
+2022-03-18 16:02:23,991 [main] INFO ebanking - Email is entered
+2022-03-18 16:23:51,836 [main] INFO ebanking - URL is opened
+2022-03-18 16:24:13,566 [main] INFO ebanking - Email is entered
+2022-03-18 16:24:22,952 [main] INFO ebanking - Email is entered
+2022-03-18 16:45:43,043 [main] INFO ebanking - URL is opened
+2022-03-18 16:46:04,653 [main] INFO ebanking - Email is entered
+2022-03-18 16:47:07,515 [main] INFO ebanking - URL is opened
+2022-03-18 16:47:33,278 [main] INFO ebanking - Email is entered
+2022-03-18 16:52:50,675 [main] INFO ebanking - URL is opened
+2022-03-18 16:53:12,955 [main] INFO ebanking - Email is entered
+2022-03-18 16:53:22,364 [main] INFO ebanking - Staff Id is entered
+2022-03-18 16:56:52,993 [main] INFO ebanking - URL is opened
+2022-03-18 16:57:45,301 [main] INFO ebanking - Email is entered
+2022-03-18 16:57:54,721 [main] INFO ebanking - Staff Id is entered
+2022-03-18 16:57:58,303 [main] INFO ebanking - test case failed....
+2022-03-18 17:12:46,736 [main] INFO ebanking - URL is opened
+2022-03-18 17:12:47,196 [main] INFO ebanking - submit button is clicked
+2022-03-18 17:13:17,669 [main] INFO ebanking - options is selected
+2022-03-18 17:13:18,629 [main] INFO ebanking - Status tile is entered
+2022-03-18 17:13:18,742 [main] INFO ebanking - button is clicked for queue
+2022-03-18 17:13:21,826 [main] INFO ebanking - confirmed
+2022-03-18 17:13:26,197 [main] INFO ebanking - form button is pressed
+2022-03-19 22:29:11,625 [main] INFO ebanking - URL is opened
+2022-03-19 22:29:42,611 [main] INFO ebanking - Email is entered
+2022-03-19 22:29:43,612 [main] INFO ebanking - StaffID is entered
+2022-03-19 22:40:36,814 [main] INFO ebanking - URL is opened
+2022-03-19 22:46:54,390 [main] INFO ebanking - URL is opened
+2022-03-19 22:47:17,769 [main] INFO ebanking - Email is entered
+2022-03-19 22:47:18,722 [main] INFO ebanking - StaffID is entered
+2022-03-19 22:53:30,215 [main] INFO ebanking - URL is opened
+2022-03-19 22:53:57,715 [main] INFO ebanking - Email is entered
+2022-03-19 22:53:58,673 [main] INFO ebanking - StaffID is entered
+2022-03-19 22:56:23,796 [main] INFO ebanking - URL is opened
+2022-03-19 22:56:56,213 [main] INFO ebanking - Email is entered
+2022-03-19 22:56:57,161 [main] INFO ebanking - StaffID is entered
+2022-03-19 22:58:25,665 [main] INFO ebanking - URL is opened
+2022-03-19 22:58:59,088 [main] INFO ebanking - Email is entered
+2022-03-19 22:59:00,048 [main] INFO ebanking - StaffID is entered
+2022-03-19 23:01:07,298 [main] INFO ebanking - URL is opened
+2022-03-19 23:01:47,588 [main] INFO ebanking - Email is entered
+2022-03-19 23:01:48,546 [main] INFO ebanking - StaffID is entered
+2022-03-19 23:04:47,936 [main] INFO ebanking - URL is opened
+2022-03-19 23:05:34,224 [main] INFO ebanking - Email is entered
+2022-03-19 23:05:35,166 [main] INFO ebanking - StaffID is entered
+2022-03-19 23:07:31,285 [main] INFO ebanking - URL is opened
+2022-03-19 23:08:02,198 [main] INFO ebanking - Email is entered
+2022-03-19 23:08:03,147 [main] INFO ebanking - StaffID is entered
+2022-03-19 23:11:46,020 [main] INFO ebanking - URL is opened
+2022-03-19 23:12:13,734 [main] INFO ebanking - Email is entered
+2022-03-19 23:12:14,685 [main] INFO ebanking - StaffID is entered
+2022-03-19 23:20:11,191 [main] INFO ebanking - URL is opened
+2022-03-19 23:20:33,125 [main] INFO ebanking - Email is entered
+2022-03-19 23:20:34,081 [main] INFO ebanking - StaffID is entered
+2022-03-19 23:21:31,496 [main] INFO ebanking - URL is opened
+2022-03-19 23:21:57,103 [main] INFO ebanking - Email is entered
+2022-03-19 23:21:58,078 [main] INFO ebanking - StaffID is entered
+2022-03-19 23:22:51,929 [main] INFO ebanking - URL is opened
+2022-03-19 23:23:14,020 [main] INFO ebanking - Email is entered
+2022-03-19 23:23:14,995 [main] INFO ebanking - StaffID is entered
+2022-03-19 23:25:27,591 [main] INFO ebanking - URL is opened
+2022-03-19 23:25:53,336 [main] INFO ebanking - Email is entered
+2022-03-19 23:25:54,289 [main] INFO ebanking - StaffID is entered
+2022-03-19 23:26:04,481 [main] INFO ebanking - test case failed....
+2022-03-19 23:28:13,088 [main] INFO ebanking - URL is opened
+2022-03-19 23:28:34,326 [main] INFO ebanking - Email is entered
+2022-03-19 23:28:35,308 [main] INFO ebanking - StaffID is entered
+2022-03-19 23:28:45,348 [main] INFO ebanking - test case failed....
+2022-03-20 18:47:37,401 [main] INFO ebanking - URL is opened
+2022-03-20 18:48:09,590 [main] INFO ebanking - Email is entered
+2022-03-20 18:48:10,775 [main] INFO ebanking - StaffID is entered
+2022-03-20 18:48:23,372 [main] INFO ebanking - test case failed....
+2022-03-20 18:50:18,554 [main] INFO ebanking - URL is opened
+2022-03-20 18:50:56,008 [main] INFO ebanking - test case passed....
+2022-03-20 18:55:33,008 [main] INFO ebanking - URL is opened
+2022-03-20 18:56:03,723 [main] INFO ebanking - Screen is scrolled
+2022-03-20 18:56:03,961 [main] INFO ebanking - Resource Menu is clicked
+2022-03-20 18:56:05,739 [main] INFO ebanking - Resource Type button is clicked
+2022-03-20 18:56:07,374 [main] INFO ebanking - Resource create button is clicked
+2022-03-20 18:56:07,571 [main] INFO ebanking - Resource Name is entered
+2022-03-20 18:56:07,808 [main] INFO ebanking - Resource description is entered
+2022-03-20 18:56:07,977 [main] INFO ebanking - Queue type field is clicked
+2022-03-20 18:56:08,159 [main] INFO ebanking - Queue type option is selected
+2022-03-20 18:56:09,284 [main] INFO ebanking - Resource Type Create button is clicked
+2022-03-20 18:56:09,427 [main] INFO ebanking - test case failed....
+2022-03-20 18:57:54,281 [main] INFO ebanking - URL is opened
+2022-03-20 18:58:20,222 [main] INFO ebanking - Screen is scrolled
+2022-03-20 18:58:20,474 [main] INFO ebanking - Resource Menu is clicked
+2022-03-20 18:58:22,177 [main] INFO ebanking - Resource Type button is clicked
+2022-03-20 18:58:23,903 [main] INFO ebanking - Resource create button is clicked
+2022-03-20 18:58:24,094 [main] INFO ebanking - Resource Name is entered
+2022-03-20 18:58:24,324 [main] INFO ebanking - Resource description is entered
+2022-03-20 18:58:24,495 [main] INFO ebanking - Queue type field is clicked
+2022-03-20 18:58:24,666 [main] INFO ebanking - Queue type option is selected
+2022-03-20 18:58:26,177 [main] INFO ebanking - Resource Type Create button is clicked
+2022-03-20 18:58:26,306 [main] INFO ebanking - test case passed....
+2022-03-20 19:02:47,529 [main] INFO ebanking - URL is opened
+2022-03-20 19:03:13,406 [main] INFO ebanking - Screen is scrolled
+2022-03-20 19:03:13,603 [main] INFO ebanking - Resource Menu is clicked
+2022-03-20 19:03:15,736 [main] INFO ebanking - Resource Type button is clicked
+2022-03-20 19:03:17,332 [main] INFO ebanking - Resource create button is clicked
+2022-03-20 19:03:17,530 [main] INFO ebanking - Resource Name is entered
+2022-03-20 19:03:17,764 [main] INFO ebanking - Resource description is entered
+2022-03-20 19:03:17,944 [main] INFO ebanking - Queue type field is clicked
+2022-03-20 19:03:18,097 [main] INFO ebanking - Queue type option is selected
+2022-03-20 19:03:19,606 [main] INFO ebanking - Resource Type Create button is clicked
+2022-03-20 19:03:19,740 [main] INFO ebanking - test case passed....
+2022-03-20 21:37:13,710 [main] INFO ebanking - URL is opened
+2022-03-20 21:37:47,849 [main] INFO ebanking - Screen is scrolled
+2022-03-20 21:37:48,147 [main] INFO ebanking - Resource Menu is clicked
+2022-03-20 21:37:50,287 [main] INFO ebanking - Resource Type button is clicked
+2022-03-20 21:37:51,912 [main] INFO ebanking - Resource create button is clicked
+2022-03-20 21:37:52,192 [main] INFO ebanking - Resource Name is entered
+2022-03-20 21:37:52,520 [main] INFO ebanking - Resource description is entered
+2022-03-20 21:37:52,704 [main] INFO ebanking - Queue type field is clicked
+2022-03-20 21:37:52,914 [main] INFO ebanking - Queue type option is selected
+2022-03-20 21:37:55,555 [main] INFO ebanking - Resource Type Create button is clicked
+2022-03-20 21:37:55,742 [main] INFO ebanking - test case passed....
+2022-03-20 21:41:44,752 [main] INFO ebanking - URL is opened
+2022-03-20 21:42:21,874 [main] INFO ebanking - test case passed....
+2022-03-21 11:07:27,662 [main] INFO ebanking - URL is opened
+2022-03-21 11:07:28,258 [main] INFO ebanking - Entered username
+2022-03-21 11:07:28,723 [main] INFO ebanking - Enter password
+2022-03-21 11:07:29,012 [main] INFO ebanking - Entered password
+2022-03-21 11:07:29,183 [main] INFO ebanking - button was clicked
+2022-03-21 11:07:29,516 [main] INFO ebanking - screen was maximized
+2022-03-21 11:08:21,001 [main] INFO ebanking - URL is opened
+2022-03-21 11:08:21,603 [main] INFO ebanking - Entered username
+2022-03-21 11:08:21,903 [main] INFO ebanking - Enter password
+2022-03-21 11:08:22,156 [main] INFO ebanking - Entered password
+2022-03-21 11:08:22,321 [main] INFO ebanking - button was clicked
+2022-03-21 11:08:22,651 [main] INFO ebanking - screen was maximized
+2022-03-21 11:08:28,189 [main] INFO ebanking - Login test Failed
+2022-03-21 11:08:54,079 [main] INFO ebanking - URL is opened
+2022-03-21 11:08:54,898 [main] INFO ebanking - Entered username
+2022-03-21 11:08:55,308 [main] INFO ebanking - Enter password
+2022-03-21 11:08:55,608 [main] INFO ebanking - Entered password
+2022-03-21 11:08:55,793 [main] INFO ebanking - button was clicked
+2022-03-21 11:08:56,095 [main] INFO ebanking - screen was maximized
+2022-03-21 11:10:08,949 [main] INFO ebanking - URL is opened
+2022-03-21 11:11:08,394 [main] INFO ebanking - URL is opened
+2022-03-21 11:12:10,189 [main] INFO ebanking - All ticket tab is selected
+2022-03-21 11:12:10,503 [main] INFO ebanking - test case passed....
+2022-03-21 11:12:45,900 [main] INFO ebanking - URL is opened
+2022-03-21 11:13:45,999 [main] INFO ebanking - All ticket tab is selected
+2022-03-21 11:14:40,259 [main] INFO ebanking - URL is opened
+2022-03-21 11:16:16,983 [main] INFO ebanking - All ticket tab is selected
+2022-03-21 11:16:48,624 [main] INFO ebanking - URL is opened
+2022-03-21 11:17:46,300 [main] INFO ebanking - All ticket tab is selected
+2022-03-21 11:18:16,322 [main] INFO ebanking - URL is opened
+2022-03-21 11:18:17,304 [main] INFO ebanking - submit button is clicked
+2022-03-21 11:25:18,756 [main] INFO ebanking - URL is opened
+2022-03-21 11:25:19,576 [main] INFO ebanking - Entered username
+2022-03-21 11:25:19,956 [main] INFO ebanking - Enter password
+2022-03-21 11:25:20,230 [main] INFO ebanking - Entered password
+2022-03-21 11:25:20,382 [main] INFO ebanking - button was clicked
+2022-03-21 11:25:20,731 [main] INFO ebanking - screen was maximized
+2022-03-21 11:26:01,683 [main] INFO ebanking - URL is opened
+2022-03-21 11:26:02,206 [main] INFO ebanking - Entered username
+2022-03-21 11:26:02,682 [main] INFO ebanking - Enter password
+2022-03-21 11:26:02,998 [main] INFO ebanking - Entered password
+2022-03-21 11:26:03,178 [main] INFO ebanking - button was clicked
+2022-03-21 11:26:03,549 [main] INFO ebanking - screen was maximized
+2022-03-21 11:26:09,014 [main] INFO ebanking - Login test Failed
+2022-03-21 11:26:26,503 [main] INFO ebanking - URL is opened
+2022-03-21 11:26:26,943 [main] INFO ebanking - Entered username
+2022-03-21 11:26:27,302 [main] INFO ebanking - Enter password
+2022-03-21 11:26:27,579 [main] INFO ebanking - Entered password
+2022-03-21 11:26:27,752 [main] INFO ebanking - button was clicked
+2022-03-21 11:26:28,095 [main] INFO ebanking - screen was maximized
+2022-03-21 11:27:18,578 [main] INFO ebanking - URL is opened
+2022-03-21 11:28:05,757 [main] INFO ebanking - create ticket button is pressed
+2022-03-21 11:28:06,907 [main] INFO ebanking - QueueType is clicked
+2022-03-21 11:29:44,216 [main] INFO ebanking - URL is opened
+2022-03-21 12:26:54,329 [main] INFO ebanking - URL is opened
+2022-03-21 12:26:54,889 [main] INFO ebanking - Entered username
+2022-03-21 12:26:55,101 [main] INFO ebanking - Enter password
+2022-03-21 12:26:55,289 [main] INFO ebanking - Entered password
+2022-03-21 12:26:55,437 [main] INFO ebanking - button was clicked
+2022-03-21 12:26:55,693 [main] INFO ebanking - screen was maximized
+2022-03-21 12:33:10,172 [main] INFO ebanking - URL is opened
+2022-03-21 12:33:10,740 [main] INFO ebanking - Entered username
+2022-03-21 12:33:10,994 [main] INFO ebanking - Enter password
+2022-03-21 12:33:11,207 [main] INFO ebanking - Entered password
+2022-03-21 12:33:11,356 [main] INFO ebanking - button was clicked
+2022-03-21 12:33:11,713 [main] INFO ebanking - screen was maximized
+2022-03-21 12:35:04,864 [main] INFO ebanking - Login test passed
+2022-03-21 12:35:47,526 [main] INFO ebanking - URL is opened
+2022-03-21 12:35:48,195 [main] INFO ebanking - Entered username
+2022-03-21 12:35:48,465 [main] INFO ebanking - Enter password
+2022-03-21 12:35:48,702 [main] INFO ebanking - Entered password
+2022-03-21 12:35:48,893 [main] INFO ebanking - button was clicked
+2022-03-21 12:35:49,150 [main] INFO ebanking - screen was maximized
+2022-03-21 12:37:19,807 [main] INFO ebanking - URL is opened
+2022-03-21 12:37:20,423 [main] INFO ebanking - Entered username
+2022-03-21 12:37:20,770 [main] INFO ebanking - Enter password
+2022-03-21 12:37:21,073 [main] INFO ebanking - Entered password
+2022-03-21 12:37:21,301 [main] INFO ebanking - button was clicked
+2022-03-21 12:37:21,585 [main] INFO ebanking - screen was maximized
+2022-03-21 12:37:34,204 [main] INFO ebanking - Login test passed
+2022-03-21 12:39:09,731 [main] INFO ebanking - URL is opened
+2022-03-21 12:39:10,400 [main] INFO ebanking - Entered username
+2022-03-21 12:39:10,682 [main] INFO ebanking - Enter password
+2022-03-21 12:39:10,908 [main] INFO ebanking - Entered password
+2022-03-21 12:39:11,098 [main] INFO ebanking - button was clicked
+2022-03-21 12:39:11,372 [main] INFO ebanking - screen was maximized
+2022-03-21 12:40:42,553 [main] INFO ebanking - URL is opened
+2022-03-21 12:40:43,094 [main] INFO ebanking - Entered username
+2022-03-21 12:40:43,332 [main] INFO ebanking - Enter password
+2022-03-21 12:40:43,507 [main] INFO ebanking - Entered password
+2022-03-21 12:40:43,669 [main] INFO ebanking - button was clicked
+2022-03-21 12:40:43,945 [main] INFO ebanking - screen was maximized
+2022-03-21 12:41:38,436 [main] INFO ebanking - URL is opened
+2022-03-21 12:41:39,036 [main] INFO ebanking - Entered username
+2022-03-21 12:41:39,398 [main] INFO ebanking - Enter password
+2022-03-21 12:41:39,661 [main] INFO ebanking - Entered password
+2022-03-21 12:41:39,847 [main] INFO ebanking - button was clicked
+2022-03-21 12:41:40,124 [main] INFO ebanking - screen was maximized
+2022-03-21 12:41:53,505 [main] INFO ebanking - Login test passed
+2022-03-21 12:44:21,581 [main] INFO ebanking - Login test passed
+2022-03-21 12:45:34,113 [main] INFO ebanking - URL is opened
+2022-03-21 12:46:05,985 [main] INFO ebanking - create ticket button is pressed
+2022-03-21 12:46:07,587 [main] INFO ebanking - QueueType is clicked
+2022-03-21 12:47:23,464 [main] INFO ebanking - URL is opened
+2022-03-21 12:48:02,184 [main] INFO ebanking - create ticket button is pressed
+2022-03-21 12:48:04,222 [main] INFO ebanking - QueueType is clicked
+2022-03-21 12:54:34,871 [main] INFO ebanking - URL is opened
+2022-03-21 12:55:04,008 [main] INFO ebanking - create ticket button is pressed
+2022-03-21 12:55:05,567 [main] INFO ebanking - QueueType is clicked
+2022-03-21 13:06:32,379 [main] INFO ebanking - URL is opened
+2022-03-21 13:07:27,050 [main] INFO ebanking - URL is opened
+2022-03-21 13:09:05,900 [main] INFO ebanking - URL is opened
+2022-03-21 13:13:13,517 [main] INFO ebanking - URL is opened
+2022-03-21 13:13:36,644 [main] INFO ebanking - create ticket button is pressed
+2022-03-21 13:16:37,458 [main] INFO ebanking - URL is opened
+2022-03-21 13:17:01,380 [main] INFO ebanking - create ticket button is pressed
+2022-03-21 13:17:06,778 [main] INFO ebanking - Title is entered
+2022-03-21 13:17:07,010 [main] INFO ebanking - Description is entered
+2022-03-21 13:17:07,408 [main] INFO ebanking - firstname is entered
+2022-03-21 13:17:09,223 [main] INFO ebanking - Last name is entered
+2022-03-21 13:17:09,473 [main] INFO ebanking - phone number is entered
+2022-03-21 13:17:10,501 [main] INFO ebanking - Email is entered
+2022-03-21 13:17:10,654 [main] INFO ebanking - Ticket create button is clicked
+2022-03-21 13:17:10,845 [main] INFO ebanking - test case passed....
+2022-03-21 13:19:30,766 [main] INFO ebanking - URL is opened
+2022-03-21 13:19:56,933 [main] INFO ebanking - All ticket tab is selected
+2022-03-21 13:19:57,366 [main] INFO ebanking - test case passed....
+2022-03-21 13:22:03,241 [main] INFO ebanking - URL is opened
+2022-03-21 13:25:44,786 [main] INFO ebanking - URL is opened
+2022-03-21 13:26:46,673 [main] INFO ebanking - URL is opened
+2022-03-21 13:28:15,242 [main] INFO ebanking - URL is opened
+2022-03-21 13:31:41,525 [main] INFO ebanking - URL is opened
+2022-03-21 13:32:16,297 [main] INFO ebanking - test case passed....
+2022-03-21 13:34:00,183 [main] INFO ebanking - Login test passed
+2022-03-21 13:34:09,330 [main] INFO ebanking - URL is opened
+2022-03-21 13:34:09,955 [main] INFO ebanking - Entered username
+2022-03-21 13:34:10,482 [main] INFO ebanking - Enter password
+2022-03-21 13:34:10,829 [main] INFO ebanking - Entered password
+2022-03-21 13:34:11,063 [main] INFO ebanking - button was clicked
+2022-03-21 13:34:11,380 [main] INFO ebanking - screen was maximized
+2022-03-21 13:34:16,915 [main] INFO ebanking - Login test Failed
+2022-03-21 13:34:26,657 [main] INFO ebanking - URL is opened
+2022-03-21 13:34:27,180 [main] INFO ebanking - Entered username
+2022-03-21 13:34:27,555 [main] INFO ebanking - Enter password
+2022-03-21 13:34:27,825 [main] INFO ebanking - Entered password
+2022-03-21 13:34:28,003 [main] INFO ebanking - button was clicked
+2022-03-21 13:34:28,327 [main] INFO ebanking - screen was maximized
+2022-03-21 13:34:59,461 [main] INFO ebanking - URL is opened
+2022-03-21 13:35:33,425 [main] INFO ebanking - create ticket button is pressed
+2022-03-21 13:35:38,164 [main] INFO ebanking - Title is entered
+2022-03-21 13:35:38,496 [main] INFO ebanking - Description is entered
+2022-03-21 13:35:38,823 [main] INFO ebanking - firstname is entered
+2022-03-21 13:35:40,610 [main] INFO ebanking - Last name is entered
+2022-03-21 13:35:40,857 [main] INFO ebanking - phone number is entered
+2022-03-21 13:35:41,888 [main] INFO ebanking - Email is entered
+2022-03-21 13:35:42,110 [main] INFO ebanking - Ticket create button is clicked
+2022-03-21 13:35:42,219 [main] INFO ebanking - test case passed....
+2022-03-21 13:35:50,252 [main] INFO ebanking - URL is opened
+2022-03-21 13:36:25,565 [main] INFO ebanking - URL is opened
+2022-03-21 13:37:44,257 [main] INFO ebanking - URL is opened
+2022-03-21 13:38:21,786 [main] INFO ebanking - test case passed....
+2022-03-21 13:38:32,108 [main] INFO ebanking - URL is opened
+2022-03-21 13:39:01,283 [main] INFO ebanking - URL is opened
+2022-03-21 13:39:02,554 [main] INFO ebanking - submit button is clicked
+2022-03-21 13:39:41,294 [main] INFO ebanking - options is selected
+2022-03-21 13:39:42,147 [main] INFO ebanking - Status tile is entered
+2022-03-21 13:39:42,600 [main] INFO ebanking - button is clicked for queue
+2022-03-21 13:39:52,008 [main] INFO ebanking - confirmed
+2022-03-21 13:39:57,144 [main] INFO ebanking - form button is pressed
+2022-03-21 13:40:40,139 [main] INFO ebanking - URL is opened
+2022-03-21 13:45:42,690 [main] INFO ebanking - URL is opened
+2022-03-21 13:46:12,672 [main] INFO ebanking - URL is opened
+2022-03-21 13:46:40,191 [main] INFO ebanking - URL is opened
+2022-03-21 13:46:41,241 [main] INFO ebanking - login completed
+2022-03-21 13:46:54,458 [main] INFO ebanking - page is scrolled
+2022-03-21 13:47:01,859 [main] INFO ebanking - User menu button is clicked
+2022-03-21 13:47:04,074 [main] INFO ebanking - Role is clicked
+2022-03-21 13:47:10,244 [main] INFO ebanking - Create role button is clicked
+2022-03-21 13:47:13,437 [main] INFO ebanking - Name is entered
+2022-03-21 13:47:13,710 [main] INFO ebanking - Description is entered
+2022-03-21 13:47:13,920 [main] INFO ebanking - Access button is clicked
+2022-03-21 13:47:17,047 [main] INFO ebanking - Role is given all access
+2022-03-21 13:47:18,116 [main] INFO ebanking - access queue button  is clicked
+2022-03-21 13:47:18,297 [main] INFO ebanking - All roles has been assigned
+2022-03-21 13:47:18,342 [main] INFO ebanking - Page is scrolled
+2022-03-21 13:47:18,468 [main] INFO ebanking - Done button is clicked
+2022-03-21 13:47:23,780 [main] INFO ebanking - test case failed....
+2022-03-21 13:47:32,944 [main] INFO ebanking - URL is opened
+2022-03-21 13:47:54,715 [main] INFO ebanking - User menu button is clicked
+2022-03-21 13:47:56,390 [main] INFO ebanking - department is selected from the menu
+2022-03-21 13:47:57,879 [main] INFO ebanking - department create button is clicked
+2022-03-21 13:47:58,169 [main] INFO ebanking - Department Name is entered
+2022-03-21 13:47:58,608 [main] INFO ebanking - description is entered
+2022-03-21 13:47:58,939 [main] INFO ebanking - Approval group is selected
+2022-03-21 13:48:00,836 [main] INFO ebanking - Department button is clicked
+2022-03-21 13:48:05,911 [main] INFO ebanking - test case passed....
+2022-03-21 13:48:13,480 [main] INFO ebanking - URL is opened
+2022-03-21 13:48:41,660 [main] INFO ebanking - Email is entered
+2022-03-21 13:48:52,369 [main] INFO ebanking - Staff Id is entered
+2022-03-21 13:48:56,904 [main] INFO ebanking - test case failed....
+2022-03-21 13:59:10,152 [main] INFO ebanking - URL is opened
+2022-03-21 13:59:11,458 [main] INFO ebanking - login completed
+2022-03-21 13:59:24,956 [main] INFO ebanking - page is scrolled
+2022-03-21 13:59:32,281 [main] INFO ebanking - User menu button is clicked
+2022-03-21 13:59:33,881 [main] INFO ebanking - Role is clicked
+2022-03-21 13:59:38,058 [main] INFO ebanking - Create role button is clicked
+2022-03-21 13:59:41,323 [main] INFO ebanking - Name is entered
+2022-03-21 13:59:41,630 [main] INFO ebanking - Description is entered
+2022-03-21 13:59:42,366 [main] INFO ebanking - Access button is clicked
+2022-03-21 13:59:45,473 [main] INFO ebanking - Role is given all access
+2022-03-21 13:59:46,539 [main] INFO ebanking - access queue button  is clicked
+2022-03-21 13:59:46,697 [main] INFO ebanking - All roles has been assigned
+2022-03-21 13:59:46,749 [main] INFO ebanking - Page is scrolled
+2022-03-21 13:59:46,869 [main] INFO ebanking - Done button is clicked
+2022-03-21 13:59:56,928 [main] INFO ebanking - URL is opened
+2022-03-21 14:00:26,502 [main] INFO ebanking - Email is entered
+2022-03-21 14:00:36,980 [main] INFO ebanking - Staff Id is entered
+2022-03-21 14:00:39,389 [main] INFO ebanking - test case failed....
+2022-03-21 14:01:55,767 [main] INFO ebanking - URL is opened
+2022-03-21 14:01:57,156 [main] INFO ebanking - login completed
+2022-03-21 14:02:12,193 [main] INFO ebanking - page is scrolled
+2022-03-21 14:02:20,722 [main] INFO ebanking - User menu button is clicked
+2022-03-21 14:02:22,960 [main] INFO ebanking - Role is clicked
+2022-03-21 14:02:27,241 [main] INFO ebanking - Create role button is clicked
+2022-03-21 14:02:30,512 [main] INFO ebanking - Name is entered
+2022-03-21 14:02:30,833 [main] INFO ebanking - Description is entered
+2022-03-21 14:02:31,230 [main] INFO ebanking - Access button is clicked
+2022-03-21 14:02:34,375 [main] INFO ebanking - Role is given all access
+2022-03-21 14:02:35,500 [main] INFO ebanking - access queue button  is clicked
+2022-03-21 14:02:35,688 [main] INFO ebanking - All roles has been assigned
+2022-03-21 14:02:35,747 [main] INFO ebanking - Page is scrolled
+2022-03-21 14:02:35,890 [main] INFO ebanking - Done button is clicked
+2022-03-21 14:03:28,089 [main] INFO ebanking - URL is opened
+2022-03-21 14:03:29,525 [main] INFO ebanking - login completed
+2022-03-21 14:03:46,221 [main] INFO ebanking - page is scrolled
+2022-03-21 14:03:54,730 [main] INFO ebanking - User menu button is clicked
+2022-03-21 14:03:56,566 [main] INFO ebanking - Role is clicked
+2022-03-21 14:04:01,311 [main] INFO ebanking - Create role button is clicked
+2022-03-21 14:04:04,625 [main] INFO ebanking - Name is entered
+2022-03-21 14:04:04,942 [main] INFO ebanking - Description is entered
+2022-03-21 14:04:05,261 [main] INFO ebanking - Access button is clicked
+2022-03-21 14:04:08,414 [main] INFO ebanking - Role is given all access
+2022-03-21 14:04:09,483 [main] INFO ebanking - access queue button  is clicked
+2022-03-21 14:04:09,614 [main] INFO ebanking - All roles has been assigned
+2022-03-21 14:04:09,674 [main] INFO ebanking - Page is scrolled
+2022-03-21 14:04:09,827 [main] INFO ebanking - Done button is clicked
+2022-03-21 14:10:14,257 [main] INFO ebanking - URL is opened
+2022-03-21 14:10:15,372 [main] INFO ebanking - login completed
+2022-03-21 14:10:29,539 [main] INFO ebanking - page is scrolled
+2022-03-21 14:10:37,824 [main] INFO ebanking - User menu button is clicked
+2022-03-21 14:10:40,248 [main] INFO ebanking - Role is clicked
+2022-03-21 14:10:45,227 [main] INFO ebanking - Create role button is clicked
+2022-03-21 14:10:48,527 [main] INFO ebanking - Name is entered
+2022-03-21 14:10:48,885 [main] INFO ebanking - Description is entered
+2022-03-21 14:10:49,167 [main] INFO ebanking - Access button is clicked
+2022-03-21 14:10:52,284 [main] INFO ebanking - Role is given all access
+2022-03-21 14:10:53,399 [main] INFO ebanking - access queue button  is clicked
+2022-03-21 14:10:53,594 [main] INFO ebanking - All roles has been assigned
+2022-03-21 14:10:53,652 [main] INFO ebanking - Page is scrolled
+2022-03-21 14:13:02,297 [main] INFO ebanking - URL is opened
+2022-03-21 14:13:02,907 [main] INFO ebanking - login completed
+2022-03-21 14:13:13,663 [main] INFO ebanking - page is scrolled
+2022-03-21 14:13:20,751 [main] INFO ebanking - User menu button is clicked
+2022-03-21 14:13:22,232 [main] INFO ebanking - Role is clicked
+2022-03-21 14:13:26,757 [main] INFO ebanking - Create role button is clicked
+2022-03-21 14:13:29,863 [main] INFO ebanking - Name is entered
+2022-03-21 14:13:29,966 [main] INFO ebanking - Description is entered
+2022-03-21 14:13:30,605 [main] INFO ebanking - Access button is clicked
+2022-03-21 14:13:33,680 [main] INFO ebanking - Role is given all access
+2022-03-21 14:13:34,654 [main] INFO ebanking - access queue button  is clicked
+2022-03-21 14:13:34,758 [main] INFO ebanking - All roles has been assigned
+2022-03-21 14:13:34,800 [main] INFO ebanking - Page is scrolled
+2022-03-21 14:16:27,037 [main] INFO ebanking - URL is opened
+2022-03-21 14:16:27,718 [main] INFO ebanking - login completed
+2022-03-21 14:16:36,029 [main] INFO ebanking - page is scrolled
+2022-03-21 14:16:42,839 [main] INFO ebanking - User menu button is clicked
+2022-03-21 14:16:44,259 [main] INFO ebanking - Role is clicked
+2022-03-21 14:16:48,604 [main] INFO ebanking - Create role button is clicked
+2022-03-21 14:16:51,748 [main] INFO ebanking - Name is entered
+2022-03-21 14:16:51,932 [main] INFO ebanking - Description is entered
+2022-03-21 14:16:52,276 [main] INFO ebanking - Access button is clicked
+2022-03-21 14:16:55,360 [main] INFO ebanking - Role is given all access
+2022-03-21 14:16:56,353 [main] INFO ebanking - access queue button  is clicked
+2022-03-21 14:16:56,446 [main] INFO ebanking - All roles has been assigned
+2022-03-21 14:16:56,480 [main] INFO ebanking - Page is scrolled
+2022-03-21 14:17:58,188 [main] INFO ebanking - URL is opened
+2022-03-21 14:17:59,252 [main] INFO ebanking - login completed
+2022-03-21 14:18:07,537 [main] INFO ebanking - page is scrolled
+2022-03-21 14:18:14,648 [main] INFO ebanking - User menu button is clicked
+2022-03-21 14:18:16,131 [main] INFO ebanking - Role is clicked
+2022-03-21 14:18:20,460 [main] INFO ebanking - Create role button is clicked
+2022-03-21 14:18:23,613 [main] INFO ebanking - Name is entered
+2022-03-21 14:18:23,758 [main] INFO ebanking - Description is entered
+2022-03-21 14:18:24,590 [main] INFO ebanking - Access button is clicked
+2022-03-21 14:18:27,686 [main] INFO ebanking - Role is given all access
+2022-03-21 14:18:28,658 [main] INFO ebanking - access queue button  is clicked
+2022-03-21 14:18:28,735 [main] INFO ebanking - All roles has been assigned
+2022-03-21 14:18:28,769 [main] INFO ebanking - Page is scrolled
+2022-03-21 14:18:37,033 [main] INFO ebanking - test case failed....
+2022-03-21 14:20:28,222 [main] INFO ebanking - URL is opened
+2022-03-21 14:20:28,785 [main] INFO ebanking - login completed
+2022-03-21 14:20:37,030 [main] INFO ebanking - page is scrolled
+2022-03-21 14:20:43,919 [main] INFO ebanking - User menu button is clicked
+2022-03-21 14:20:45,219 [main] INFO ebanking - Role is clicked
+2022-03-21 14:20:49,792 [main] INFO ebanking - Create role button is clicked
+2022-03-21 14:20:52,941 [main] INFO ebanking - Name is entered
+2022-03-21 14:20:53,144 [main] INFO ebanking - Description is entered
+2022-03-21 14:20:53,296 [main] INFO ebanking - Access button is clicked
+2022-03-21 14:20:56,395 [main] INFO ebanking - Role is given all access
+2022-03-21 14:20:57,371 [main] INFO ebanking - access queue button  is clicked
+2022-03-21 14:20:57,484 [main] INFO ebanking - All roles has been assigned
+2022-03-21 14:20:57,515 [main] INFO ebanking - Page is scrolled
+2022-03-21 14:21:08,781 [main] INFO ebanking - test case passed....
+2022-03-21 14:23:29,556 [main] INFO ebanking - URL is opened
+2022-03-21 14:23:50,701 [main] INFO ebanking - create ticket button is pressed
+2022-03-21 14:23:55,135 [main] INFO ebanking - Title is entered
+2022-03-21 14:23:55,353 [main] INFO ebanking - Description is entered
+2022-03-21 14:23:55,571 [main] INFO ebanking - firstname is entered
+2022-03-21 14:23:57,312 [main] INFO ebanking - Last name is entered
+2022-03-21 14:23:57,450 [main] INFO ebanking - phone number is entered
+2022-03-21 14:23:58,356 [main] INFO ebanking - Email is entered
+2022-03-21 14:23:58,433 [main] INFO ebanking - Ticket create button is clicked
+2022-03-21 14:23:58,523 [main] INFO ebanking - test case passed....
+2022-03-21 14:24:37,128 [main] INFO ebanking - URL is opened
+2022-03-21 14:24:59,195 [main] INFO ebanking - Email is entered
+2022-03-21 14:25:00,313 [main] INFO ebanking - StaffID is entered
+2022-03-21 14:25:12,011 [main] INFO ebanking - test case failed....
+2022-03-21 14:26:14,901 [main] INFO ebanking - URL is opened
+2022-03-21 14:27:28,134 [main] INFO ebanking - URL is opened
+2022-03-21 14:27:44,106 [main] INFO ebanking - Screen is scrolled
+2022-03-21 14:27:44,246 [main] INFO ebanking - Resource Menu is clicked
+2022-03-21 14:27:45,563 [main] INFO ebanking - Resource Type button is clicked
+2022-03-21 14:27:47,326 [main] INFO ebanking - Resource create button is clicked
+2022-03-21 14:27:47,462 [main] INFO ebanking - Resource Name is entered
+2022-03-21 14:27:47,631 [main] INFO ebanking - Resource description is entered
+2022-03-21 14:27:47,726 [main] INFO ebanking - Queue type field is clicked
+2022-03-21 14:27:47,822 [main] INFO ebanking - Queue type option is selected
+2022-03-21 14:27:49,522 [main] INFO ebanking - Resource Type Create button is clicked
+2022-03-21 14:27:49,620 [main] INFO ebanking - test case passed....
+2022-03-21 14:30:22,360 [main] INFO ebanking - URL is opened
+2022-03-21 14:30:38,987 [main] INFO ebanking - All ticket tab is selected
+2022-03-21 14:30:39,177 [main] INFO ebanking - test case passed....
+2022-03-21 17:48:08,050 [main] INFO ebanking - URL is opened
+2022-03-21 17:52:11,766 [main] INFO ebanking - URL is opened
+2022-03-21 17:59:02,704 [main] INFO ebanking - URL is opened
+2022-03-21 18:03:05,390 [main] INFO ebanking - URL is opened
+2022-03-21 18:04:22,360 [main] INFO ebanking - URL is opened
+2022-03-21 18:09:38,954 [main] INFO ebanking - URL is opened
+2022-03-21 18:12:16,824 [main] INFO ebanking - URL is opened
+2022-03-21 18:16:50,375 [main] INFO ebanking - URL is opened
+2022-03-21 18:22:04,727 [main] INFO ebanking - URL is opened
+2022-03-21 18:22:32,751 [main] INFO ebanking - test case failed....
+2022-03-21 18:25:18,784 [main] INFO ebanking - URL is opened
+2022-03-21 18:25:51,391 [main] INFO ebanking - test case passed....
+2022-03-21 19:40:03,928 [main] INFO ebanking - URL is opened
+2022-03-21 19:42:10,019 [main] INFO ebanking - URL is opened
+2022-03-21 19:44:04,256 [main] INFO ebanking - URL is opened
+2022-03-21 19:44:40,668 [main] INFO ebanking - test case passed....
+2022-03-21 22:06:04,873 [main] INFO ebanking - URL is opened
+2022-03-21 22:10:19,455 [main] INFO ebanking - URL is opened
+2022-03-21 22:11:51,870 [main] INFO ebanking - URL is opened
+2022-03-22 09:07:11,859 [main] INFO ebanking - URL is opened
+2022-03-22 09:07:43,623 [main] INFO ebanking - test case passed....
+2022-03-22 11:08:05,811 [main] INFO ebanking - URL is opened
+2022-03-22 11:09:38,075 [main] INFO ebanking - URL is opened
+2022-03-22 11:11:31,360 [main] INFO ebanking - URL is opened
+2022-03-22 11:13:18,001 [main] INFO ebanking - URL is opened
+2022-03-22 11:14:17,771 [main] INFO ebanking - URL is opened
+2022-03-22 11:15:13,456 [main] INFO ebanking - URL is opened
+2022-03-22 14:00:18,573 [main] INFO ebanking - URL is opened
+2022-03-22 14:04:22,178 [main] INFO ebanking - URL is opened
+2022-03-22 14:09:39,081 [main] INFO ebanking - URL is opened
+2022-03-22 14:33:17,187 [main] INFO ebanking - URL is opened
+2022-03-22 14:34:53,382 [main] INFO ebanking - URL is opened
+2022-03-22 14:36:46,614 [main] INFO ebanking - URL is opened
+2022-03-22 14:46:07,578 [main] INFO ebanking - URL is opened
+2022-03-22 16:08:29,450 [main] INFO ebanking - URL is opened
+2022-03-22 16:11:28,894 [main] INFO ebanking - URL is opened
+2022-03-22 16:14:09,573 [main] INFO ebanking - URL is opened
+2022-03-22 16:14:11,153 [main] INFO ebanking - URL is opened
+2022-03-22 16:21:47,415 [main] INFO ebanking - URL is opened
+2022-03-22 16:36:32,009 [main] INFO ebanking - URL is opened
+2022-03-22 16:38:27,483 [main] INFO ebanking - URL is opened
+2022-03-22 16:43:10,402 [main] INFO ebanking - URL is opened
+2022-03-22 16:46:23,805 [main] INFO ebanking - URL is opened
+2022-03-22 16:46:25,317 [main] INFO ebanking - URL is opened
+2022-03-22 16:46:25,632 [main] INFO ebanking - Entered username
+2022-03-22 16:46:25,814 [main] INFO ebanking - Enter password
+2022-03-22 16:46:25,968 [main] INFO ebanking - Entered password
+2022-03-22 16:46:26,040 [main] INFO ebanking - button was clicked
+2022-03-22 16:46:26,053 [main] INFO ebanking - screen was maximized
+2022-03-22 16:47:18,092 [main] INFO ebanking - Login test Failed
+2022-03-22 16:48:48,037 [main] INFO ebanking - URL is opened
+2022-03-22 16:49:48,209 [main] INFO ebanking - URL is opened
+2022-03-22 18:24:31,932 [main] INFO ebanking - URL is opened
+2022-03-22 18:24:50,780 [main] INFO ebanking - Login test passed
+2022-03-22 18:25:00,479 [main] INFO ebanking - URL is opened
+2022-03-22 18:25:02,066 [main] INFO ebanking - URL is opened
+2022-03-22 18:25:02,464 [main] INFO ebanking - Entered username
+2022-03-22 18:25:02,693 [main] INFO ebanking - Enter password
+2022-03-22 18:25:28,975 [main] INFO ebanking - URL is opened
+2022-03-22 18:25:33,386 [main] INFO ebanking - URL is opened
+2022-03-22 18:25:34,233 [main] INFO ebanking - Entered username
+2022-03-22 18:25:34,612 [main] INFO ebanking - Enter password
+2022-03-22 18:25:34,856 [main] INFO ebanking - Entered password
+2022-03-22 18:26:14,735 [main] INFO ebanking - URL is opened
+2022-03-22 18:26:16,859 [main] INFO ebanking - URL is opened
+2022-03-22 18:26:49,793 [main] INFO ebanking - URL is opened
+2022-03-22 18:26:53,226 [main] INFO ebanking - URL is opened
+2022-03-22 18:31:30,256 [main] INFO ebanking - Login test passed
+2022-03-22 18:31:44,106 [main] INFO ebanking - URL is opened
+2022-03-22 18:31:45,470 [main] INFO ebanking - Entered username
+2022-03-22 18:31:46,102 [main] INFO ebanking - Enter password
+2022-03-22 18:31:46,435 [main] INFO ebanking - Entered password
+2022-03-22 18:31:46,623 [main] INFO ebanking - button was clicked
+2022-03-22 18:31:47,020 [main] INFO ebanking - screen was maximized
+2022-03-22 18:31:52,473 [main] INFO ebanking - Login test Failed
+2022-03-22 18:32:06,180 [main] INFO ebanking - URL is opened
+2022-03-22 18:32:06,880 [main] INFO ebanking - Entered username
+2022-03-22 18:32:07,474 [main] INFO ebanking - Enter password
+2022-03-22 18:32:07,970 [main] INFO ebanking - Entered password
+2022-03-22 18:32:08,241 [main] INFO ebanking - button was clicked
+2022-03-22 18:32:08,626 [main] INFO ebanking - screen was maximized
+2022-03-22 18:32:51,809 [main] INFO ebanking - URL is opened
+2022-03-22 18:33:17,179 [main] INFO ebanking - create ticket button is pressed
+2022-03-22 18:33:22,072 [main] INFO ebanking - Title is entered
+2022-03-22 18:33:22,392 [main] INFO ebanking - Description is entered
+2022-03-22 18:33:22,745 [main] INFO ebanking - firstname is entered
+2022-03-22 18:33:24,546 [main] INFO ebanking - Last name is entered
+2022-03-22 18:33:24,802 [main] INFO ebanking - phone number is entered
+2022-03-22 18:33:25,822 [main] INFO ebanking - Email is entered
+2022-03-22 18:33:25,979 [main] INFO ebanking - Ticket create button is clicked
+2022-03-22 18:33:26,124 [main] INFO ebanking - test case passed....
+2022-03-22 18:33:44,735 [main] INFO ebanking - URL is opened
+2022-03-22 18:34:11,068 [main] INFO ebanking - All ticket tab is selected
+2022-03-22 18:34:11,248 [main] INFO ebanking - test case passed....
+2022-03-22 18:34:27,543 [main] INFO ebanking - URL is opened
+2022-03-22 18:45:41,794 [main] INFO ebanking - URL is opened
+2022-03-23 10:04:43,910 [main] INFO ebanking - URL is opened
+2022-03-23 10:05:34,393 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:07:13,387 [main] INFO ebanking - URL is opened
+2022-03-23 10:07:55,389 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:08:34,539 [main] INFO ebanking - URL is opened
+2022-03-23 10:09:09,355 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:11:32,552 [main] INFO ebanking - URL is opened
+2022-03-23 10:12:06,126 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:13:41,790 [main] INFO ebanking - URL is opened
+2022-03-23 10:14:19,676 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:17:06,857 [main] INFO ebanking - URL is opened
+2022-03-23 10:17:44,532 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:18:37,754 [main] INFO ebanking - URL is opened
+2022-03-23 10:19:07,277 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:28:22,065 [main] INFO ebanking - URL is opened
+2022-03-23 10:28:49,549 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:29:49,295 [main] INFO ebanking - URL is opened
+2022-03-23 10:30:21,746 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:34:49,255 [main] INFO ebanking - URL is opened
+2022-03-23 10:35:23,482 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:37:21,817 [main] INFO ebanking - URL is opened
+2022-03-23 10:37:59,757 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:38:37,376 [main] INFO ebanking - URL is opened
+2022-03-23 10:39:26,100 [main] INFO ebanking - All ticket tab is selected
+2022-03-23 10:55:18,093 [main] INFO ebanking - URL is opened
+2022-03-23 10:56:15,642 [main] INFO ebanking - URL is opened
+2022-03-23 10:58:27,304 [main] INFO ebanking - URL is opened
+2022-03-23 11:02:20,347 [main] INFO ebanking - URL is opened
+2022-03-23 11:15:06,737 [main] INFO ebanking - URL is opened
+2022-03-23 11:19:26,489 [main] INFO ebanking - URL is opened
+2022-03-23 11:20:39,792 [main] INFO ebanking - URL is opened
+2022-03-23 11:49:57,716 [main] INFO ebanking - URL is opened
+2022-03-23 11:50:35,273 [main] INFO ebanking - Email is entered
+2022-03-23 11:50:45,996 [main] INFO ebanking - Staff Id is entered
+2022-03-23 11:50:49,206 [main] INFO ebanking - test case failed....
+2022-03-23 11:51:00,564 [main] INFO ebanking - URL is opened
+2022-03-23 12:05:24,252 [main] INFO ebanking - URL is opened
+2022-03-23 13:10:35,336 [main] INFO ebanking - URL is opened
+2022-03-23 13:13:10,462 [main] INFO ebanking - URL is opened
+2022-03-23 13:18:43,096 [main] INFO ebanking - URL is opened
+2022-03-23 13:59:17,332 [main] INFO ebanking - URL is opened
+2022-03-23 14:04:16,590 [main] INFO ebanking - URL is opened
+2022-03-23 14:05:30,413 [main] INFO ebanking - URL is opened
+2022-03-23 14:06:59,371 [main] INFO ebanking - URL is opened
+2022-03-23 14:18:13,540 [main] INFO ebanking - URL is opened
+2022-03-23 14:40:21,436 [main] INFO ebanking - URL is opened
+2022-03-23 14:42:48,691 [main] INFO ebanking - URL is opened
+2022-03-23 14:46:56,455 [main] INFO ebanking - URL is opened
+2022-03-23 14:52:12,573 [main] INFO ebanking - URL is opened
+2022-03-23 14:55:03,544 [main] INFO ebanking - URL is opened
+2022-03-23 15:07:58,916 [main] INFO ebanking - URL is opened
+2022-03-23 15:19:00,488 [main] INFO ebanking - URL is opened
+2022-03-23 15:19:51,900 [main] INFO ebanking - URL is opened
+2022-03-23 15:26:08,310 [main] INFO ebanking - URL is opened
+2022-03-23 16:33:35,440 [main] INFO ebanking - URL is opened
+2022-03-23 16:43:40,636 [main] INFO ebanking - URL is opened
+2022-03-23 16:45:13,629 [main] INFO ebanking - URL is opened
+2022-03-23 16:47:13,246 [main] INFO ebanking - URL is opened
+2022-03-23 16:49:19,569 [main] INFO ebanking - URL is opened
+2022-03-23 16:51:29,405 [main] INFO ebanking - URL is opened
+2022-03-23 17:10:27,362 [main] INFO ebanking - URL is opened
+2022-03-23 23:26:29,173 [main] INFO ebanking - URL is opened
+2022-03-23 23:43:10,521 [main] INFO ebanking - URL is opened
+2022-03-24 00:26:08,826 [main] INFO ebanking - URL is opened
+2022-03-24 00:44:45,044 [main] INFO ebanking - URL is opened
+2022-03-24 00:47:21,925 [main] INFO ebanking - URL is opened
+2022-03-24 02:05:55,587 [main] INFO ebanking - URL is opened
+2022-03-24 02:08:54,868 [main] INFO ebanking - URL is opened
+2022-03-24 02:13:13,709 [main] INFO ebanking - URL is opened
+2022-03-24 10:02:58,029 [main] INFO ebanking - URL is opened
+2022-03-24 10:11:01,030 [main] INFO ebanking - URL is opened
+2022-03-24 10:18:07,588 [main] INFO ebanking - URL is opened
+2022-03-24 10:45:58,640 [main] INFO ebanking - URL is opened
+2022-03-24 10:52:31,931 [main] INFO ebanking - URL is opened

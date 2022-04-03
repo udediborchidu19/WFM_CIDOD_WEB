@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="InetBankingV1">
+
+	<listeners>
+		<listener class-name="com.cicodWFM.utilities.Reporting" />
+	</listeners>
+
+
+	<test name="Cicod-WFM Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+<!--			<class name="com.cicodWFM.testCases.TC_LoginTest_001" />-->
+<!--			<class name="com.cicodWFM.testCases.TC_InvalidLoginTest"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_ViewApplication"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_CreateTicket"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_ViewTicket"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_SingleTicket"></class>-->
+<!--			    <class name="com.cicodWFM.testCases.TC_AssignTicket"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_AssignResource"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_EditTicket"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_CreateWorkFlow"></class>-->
+<!--			<class name="com.cicodWFM.testCases.Schedule_Resource"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_ResourceType"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_Resource_Shift"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_ResourceSchedule"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_Report"></class>-->
+<!--			<class name="com.cicodWFM.testCases.InventoryApprovalRole"></class>-->
+<!--&lt;!&ndash;&ndash;&gt;-->
+<!--			<class name="com.cicodWFM.testCases.TC_InventoryApprovalRegion"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_InventoryApprovalLevel"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_InventoryApprovalGroup"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_CreateUser"></class>-->
+<!--			<class name="com.cicodWFM.testCases.Edit_Schedule_Resource"></class>-->
+			<class name="com.cicodWFM.testCases.TC_Resource_Content"></class>
+<!--			<class name="com.cicodWFM.testCases.TC_EditRole"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_EditUser"></class>-->
+			<!--			<class name="com.cicodWFM.testCases.TC_ResourceLevel"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_Roles"></class>-->
+<!--			<class name="com.cicodWFM.testCases.TC_CreateDepartment"></class>-->
+
+<!--						  <class name="com.cicodWFMstCases.TC_LoginDDT_002" />-->
+<!--			<class name="com.cicodWFMstCases.TC_AddCustomerTest_003" />-->
+
+		</classes>
+
+	</test>
+
+</suite>
